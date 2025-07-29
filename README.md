@@ -34,7 +34,7 @@
   <h3 style="font-family: 'Courier New', monospace; color: #8ec07c; font-size: 24px;">🗺️ Mapa de Progreso</h3>
   <div align="center" style="margin-top: 20px;">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Albonire&show_icons=true&locale=es&theme=gruvbox&count_private=true" alt="Estadísticas de GitHub" />
-    <img width="48%" src="https://streak-stats.demolab.com/?user=Albonire&theme=gruvbox&locale=es" alt="Estadísticas de racha de GitHub" />
+    <img width="48%" src="https://streak-stats.vercel.app/api/?user=Albonire&theme=gruvbox&locale=es" alt="Estadísticas de racha de GitHub" />
     <br>
     <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Albonire&layout=compact&locale=es&theme=gruvbox&langs_count=10" alt="Lenguajes más usados" />
   </div>
