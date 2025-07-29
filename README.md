@@ -1,127 +1,93 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&text=Anderson%20González&desc=Desarrollador%20Full-Stack%20y%20Creador%20de%20Soluciones%20Innovadoras&fontAlign=50&fontAlignY=40&fontSize=50&descAlignY=65&descAlign=50" alt="Encabezado del Perfil de Anderson González"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&gradient=linear-gradient(to%20right,%20#8A2BE2,%20#FF007F,%20#00BFFF)&height=280&text=Anderson%20González&desc=Code,%20Create,%20Innovate.&fontAlign=50&fontAlignY=40&fontSize=60&descAlignY=65&descAlign=50&animation=fadeIn" alt="Encabezado del Perfil de Anderson González"/>
 </div>
 
-<div align="center">
+<div style="background: linear-gradient(to right, #1a1a2e, #16213e, #0f3460); border-radius: 10px; padding: 20px; margin-top: 20px; text-align: center; color: #e0e0e0;">
   <p>
-    Apasionado por transformar ideas en soluciones tecnológicas robustas.
+    Apasionado por la arquitectura de software y la creación de soluciones que escalan.
     <br/>
-    Estudiante de <b>Ingeniería de Sistemas</b> con un enfoque en desarrollo web y cloud computing.
-  </p>
-  <p>
-    <a href="https://www.linkedin.com/in/anderson-gonzaleza21/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"></a>
-    <a href="mailto:afabianagcris@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    Estudiante de <b>Ingeniería de Sistemas</b> explorando las fronteras del desarrollo web y el cloud computing.
   </p>
 </div>
 
----
-
-### 🚀 Mi Stack Tecnológico
-
-<div align="center">
-  <table>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <strong>Frontend</strong><br><br>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-      </td>
-      <td width="25%" align="center">
-        <strong>Backend</strong><br><br>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-      </td>
-      <td width="25%" align="center">
-        <strong>Bases de Datos & Cloud</strong><br><br>
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-      </td>
-      <td width="25%" align="center">
-        <strong>Herramientas & DevOps</strong><br><br>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/anderson-gonzaleza21/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF007F?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010" alt="Portfolio"></a>
+  <a href="mailto:afabianagcris@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email"></a>
 </div>
 
----
+<div align="center" style="margin: 30px 0;">
+  <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/neon-divider.svg" alt="Neon Divider" />
+</div>
 
-### 📊 Mi Dashboard de Actividad
+<h3 align="center" style="color: #00BFFF; font-size: 24px; text-shadow: 0 0 5px #00BFFF;">🚀 Mi Toolbox Tecnológico</h3>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,java,spring,python,nodejs,postgres,mysql,mongodb,aws,git,docker,postman,linux&perline=9" alt="Tecnologías" />
+</div>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Albonire&show_icons=true&locale=es&theme=radical&count_private=true" alt="Estadísticas de GitHub" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Albonire&theme=radical&locale=es" alt="Estadísticas de racha de GitHub" />
+<div align="center" style="margin: 30px 0;">
+  <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/neon-divider.svg" alt="Neon Divider" />
+</div>
+
+<h3 align="center" style="color: #FF007F; font-size: 24px; text-shadow: 0 0 5px #FF007F;">📊 Mi Dashboard de GitHub</h3>
+<div align="center" style="margin-top: 20px;">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Albonire&show_icons=true&locale=es&theme=synthwave&count_private=true" alt="Estadísticas de GitHub" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Albonire&theme=synthwave&locale=es" alt="Estadísticas de racha de GitHub" />
   <br>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Albonire&layout=compact&locale=es&theme=radical&langs_count=8" alt="Lenguajes más usados" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Albonire&layout=compact&locale=es&theme=synthwave&langs_count=10" alt="Lenguajes más usados" />
 </div>
 
-<div align="center">
-  <!-- Para que esto funcione, necesitas habilitar la integración de WakaTime en tu perfil. -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Albonire&theme=radical&layout=compact" alt="Estadísticas de WakaTime" />
+<div align="center" style="margin: 30px 0;">
+  <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/neon-divider.svg" alt="Neon Divider" />
 </div>
 
----
-
-### 🌟 Proyectos Destacados
-
-<table width="100%">
+<h3 align="center" style="color: #8A2BE2; font-size: 24px; text-shadow: 0 0 5px #8A2BE2;">🌟 Showcase de Proyectos</h3>
+<table width="100%" style="border-collapse: collapse;">
   <tr valign="top">
-    <td width="50%">
-      <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 8px;">
-        <h3 align="center">Extensión Pomodoro para YouTube</h3>
-        <p align="center">
+    <td width="50%" style="padding: 10px;">
+      <div style="border: 1px solid #FF007F; border-radius: 10px; padding: 20px; background-color: #1a1a2e; box-shadow: 0 0 15px #FF007F;">
+        <h4 align="center" style="color: #FF007F;">Extensión Pomodoro para YouTube</h4>
+        <p align="center" style="color: #e0e0e0;">
           Una extensión de Chrome para gestionar tu tiempo de estudio o trabajo directamente en YouTube, aplicando la técnica Pomodoro sin salir de la plataforma.
         </p>
         <p align="center">
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+          <img src="https://skillicons.dev/icons?i=js,html,css" alt="Tecnologías del Proyecto" />
         </p>
         <p align="center">
-          <a href="https://github.com/Albonire/pomodoro-youtube"><b>Ver en GitHub →</b></a>
+          <a href="https://github.com/Albonire/pomodoro-youtube" style="color: #00BFFF; text-decoration: none;"><b>Ver en GitHub →</b></a>
         </p>
       </div>
     </td>
-    <td width="50%">
-      <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 8px;">
-        <h3 align="center">Editor de Documentos Colaborativo</h3>
-        <p align="center">
+    <td width="50%" style="padding: 10px;">
+      <div style="border: 1px solid #00BFFF; border-radius: 10px; padding: 20px; background-color: #1a1a2e; box-shadow: 0 0 15px #00BFFF;">
+        <h4 align="center" style="color: #00BFFF;">Editor de Documentos Colaborativo</h4>
+        <p align="center" style="color: #e0e0e0;">
           Una aplicación web inspirada en Google Docs que permite a múltiples usuarios editar un documento en tiempo real, usando WebSockets para la sincronización.
         </p>
         <p align="center">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-          <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
+          <img src="https://skillicons.dev/icons?i=react,nodejs,socketio" alt="Tecnologías del Proyecto" />
         </p>
         <p align="center">
-          <a href="https://github.com/Albonire/CollaboraDocs"><b>Ver en GitHub →</b></a>
+          <a href="https://github.com/Albonire/CollaboraDocs" style="color: #FF007F; text-decoration: none;"><b>Ver en GitHub →</b></a>
         </p>
       </div>
     </td>
   </tr>
 </table>
 
----
+<div align="center" style="margin: 30px 0;">
+  <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/neon-divider.svg" alt="Neon Divider" />
+</div>
 
-### ⚡ Actividad Reciente en GitHub
-
+<h3 align="center" style="color: #e0e0e0; font-size: 24px;">⚡ Actividad Reciente</h3>
 <!--START_SECTION:activity-->
 <!-- La actividad se actualizará automáticamente aquí -->
 <!--END_SECTION:activity-->
 
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Albonire&theme=radical&no-frame=true&row=1&column=7" alt="Trofeos de GitHub">
+<div align="center" style="margin-top: 30px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Albonire&theme=dracula&no-frame=true&row=1&column=7" alt="Trofeos de GitHub">
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Albonire&label=Visitantes+del+Perfil&color=blue&style=flat-square">
+<div align="center" style="margin-top: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=Albonire&label=VISTAS+AL+PERFIL&color=blueviolet&style=flat-square">
 </div>
