@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Hola!+👋+Soy+Anderson;Ingeniero+de+Sistemas+en+formación&center=true&size=25">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Hola!+👋+Soy+Anderson;Estudiante+de+Ingeniería+de+Sistemas;Desarrollador+Full+Stack&center=true&size=23">
 </div>
 
 <p align="center">
