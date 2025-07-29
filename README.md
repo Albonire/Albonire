@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/header_banner.svg" alt="Banner de Aventura Pixel Art"/>
 
   <!-- Character Sheet -->
-  <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/character_sheet.svg" alt="Diario del Aventurero"/>
+  <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/character_sheet.svg" alt="Diario del Aventurero" width="100%"/>
 
   <!-- Social Links -->
   <div style="margin-top: 20px;">
