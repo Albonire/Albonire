@@ -3,11 +3,22 @@
     <style>
       .pixel { shape-rendering: crispEdges; }
     </style>
+    <filter id="sun-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
   <!-- Sky -->
   <rect class="pixel" fill="#83a598" x="0" y="0" width="800" height="200" />
   <!-- Sun -->
-  <rect class="pixel" fill="#fabd2f" x="650" y="30" width="60" height="60" />
+  <g style="filter:url(#sun-glow);">
+    <rect class="pixel" fill="#fabd2f" x="650" y="30" width="60" height="60">
+      <animate attributeName="fill" values="#fabd2f;#fccd5d;#fabd2f" dur="4s" repeatCount="indefinite" />
+    </rect>
+  </g>
   <!-- Far mountains -->
   <path class="pixel" fill="#665c54" d="M0 150 L50 120 L100 160 L150 130 L200 170 L250 140 L300 180 L350 150 L400 190 L450 160 L500 200 H0 Z" />
   <!-- Mid mountains -->
