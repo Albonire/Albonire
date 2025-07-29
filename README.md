@@ -47,29 +47,33 @@
   <table width="100%" style="border-collapse: collapse;">
     <tr valign="top">
       <td width="50%" style="padding: 10px;">
-        <div style="border: 2px solid #928374; border-radius: 10px; padding: 20px; background-color: #3c3836;">
-          <h4 align="center" style="color: #fabd2f; font-family: 'Courier New', monospace;">Extensión Pomodoro para YouTube</h4>
-          <p align="center" style="color: #ebdbb2; font-family: 'Georgia', serif;">
-            Una herramienta para el aventurero digital. Gestiona tu tiempo de estudio o trabajo en YouTube con la técnica Pomodoro, manteniendo la concentración en tu misión actual.
+        <div style="border: 2px solid #928374; border-radius: 10px; padding: 20px; background-color: #3c3836; text-align: center;">
+          <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/potion_icon.svg" alt="Icono de Poción" width="64" height="64"/>
+          <h4 style="color: #fabd2f; font-family: 'Courier New', monospace; margin-top: 10px;">Extensión Pomodoro para YouTube</h4>
+          <p style="color: #ebdbb2; font-family: 'Georgia', serif;">
+            Una herramienta para el aventurero digital. Gestiona tu tiempo con la técnica Pomodoro para mantener la concentración en tu misión actual.
           </p>
-          <p align="center">
+          <p style="color: #b8bb26; font-family: 'Courier New', monospace;">~ Botín Obtenido ~</p>
+          <p>
             <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="Tecnologías del Proyecto" />
           </p>
-          <p align="center">
+          <p>
             <a href="https://github.com/Albonire/pomodoro-youtube" style="color: #8ec07c; text-decoration: none; font-family: 'Courier New', monospace;"><b>Ver Bitácora →</b></a>
           </p>
         </div>
       </td>
       <td width="50%" style="padding: 10px;">
-        <div style="border: 2px solid #928374; border-radius: 10px; padding: 20px; background-color: #3c3836;">
-          <h4 align="center" style="color: #fabd2f; font-family: 'Courier New', monospace;">Editor de Documentos Colaborativo</h4>
-          <p align="center" style="color: #ebdbb2; font-family: 'Georgia', serif;">
-            Un artefacto mágico que permite a los escribas modernos colaborar en tiempo real. Inspirado en los grandes tomos de Google, usa el poder de los WebSockets para la sincronización instantánea.
+        <div style="border: 2px solid #928374; border-radius: 10px; padding: 20px; background-color: #3c3836; text-align: center;">
+          <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/scroll_icon.svg" alt="Icono de Pergamino" width="64" height="64"/>
+          <h4 style="color: #fabd2f; font-family: 'Courier New', monospace; margin-top: 10px;">Editor de Documentos Colaborativo</h4>
+          <p style="color: #ebdbb2; font-family: 'Georgia', serif;">
+            Un artefacto mágico que permite a los escribas modernos colaborar en tiempo real, usando el poder de los WebSockets para la sincronización instantánea.
           </p>
-          <p align="center">
+          <p style="color: #b8bb26; font-family: 'Courier New', monospace;">~ Botín Obtenido ~</p>
+          <p>
             <img src="https://skillicons.dev/icons?i=react,nodejs,socketio&theme=dark" alt="Tecnologías del Proyecto" />
           </p>
-          <p align="center">
+          <p>
             <a href="https://github.com/Albonire/CollaboraDocs" style="color: #8ec07c; text-decoration: none; font-family: 'Courier New', monospace;"><b>Ver Bitácora →</b></a>
           </p>
         </div>
