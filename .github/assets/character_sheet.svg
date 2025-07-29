@@ -1,0 +1,27 @@
+<svg width="700" height="350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="torn-edge">
+      <feTurbulence type="fractalNoise" baseFrequency="0.02 0.05" numOctaves="3" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="8" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <linearGradient id="scroll-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color: #fbf1c7;" />
+      <stop offset="100%" style="stop-color: #d5c4a1;" />
+    </linearGradient>
+    <style>
+      .title { font-family: 'Courier New', monospace; color: #3c3836; font-size: 24px; font-weight: bold; }
+      .body { font-family: 'Georgia', serif; font-size: 16px; line-height: 1.6; color: #3c3836; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="700" height="350" fill="url(#scroll-gradient)" style="filter: url(#torn-edge);" />
+
+  <text x="50%" y="60" text-anchor="middle" class="title">Diario del Aventurero</text>
+
+  <text x="50%" y="110" text-anchor="middle" class="body">
+    <tspan x="50%" dy="1.2em">Apasionado por la arquitectura de software y la forja de soluciones que escalan.</tspan>
+    <tspan x="50%" dy="1.2em">Como un explorador en tierras desconocidas, mi misión es navegar por las fronteras</tspan>
+    <tspan x="50%" dy="1.2em">del desarrollo web y el cloud computing, transformando ideas en artefactos</tspan>
+    <tspan x="50%" dy="1.2em">tecnológicos robustos y llenos de vida.</tspan>
+  </text>
+</svg>

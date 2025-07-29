@@ -4,12 +4,7 @@
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/header_banner.svg" alt="Banner de Aventura Pixel Art"/>
 
   <!-- Character Sheet -->
-  <div style="background-image: url('https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/scroll_background.svg'); background-size: 100% 100%; padding: 40px 60px; margin-top: 20px; color: #3c3836;">
-    <h2 style="font-family: 'Courier New', monospace; color: #3c3836;">Diario del Aventurero</h2>
-    <p style="font-family: 'Georgia', serif; font-size: 16px; line-height: 1.6;">
-      Apasionado por la arquitectura de software y la forja de soluciones que escalan. Como un explorador en tierras desconocidas, mi misión es navegar por las fronteras del desarrollo web y el cloud computing, transformando ideas en artefactos tecnológicos robustos y llenos de vida.
-    </p>
-  </div>
+  <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/character_sheet.svg" alt="Diario del Aventurero"/>
 
   <!-- Social Links -->
   <div style="margin-top: 20px;">
