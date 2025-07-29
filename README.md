@@ -24,7 +24,7 @@
   <!-- Inventory -->
   <h3 style="font-family: 'Courier New', monospace; color: #fabd2f; font-size: 24px;">📜 Inventario de Habilidades</h3>
   <div style="margin-top: 20px;">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,java,spring,python,nodejs,postgres,mysql,mongodb,aws,git,docker,postman,linux&theme=gruvbox&perline=9" alt="Tecnologías" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,java,spring,python,nodejs,postgres,mysql,mongodb,aws,git,docker,postman,linux&theme=dark&perline=9" alt="Tecnologías" />
   </div>
 
   <!-- Divider -->
@@ -55,7 +55,7 @@
           </p>
           <p style="color: #b8bb26; font-family: 'Courier New', monospace;">~ Botín Obtenido ~</p>
           <p>
-            <img src="https://skillicons.dev/icons?i=js,html,css&theme=gruvbox" alt="Tecnologías del Proyecto" />
+            <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="Tecnologías del Proyecto" />
           </p>
           <p>
             <a href="https://github.com/Albonire/pomodoro-youtube" style="color: #8ec07c; text-decoration: none; font-family: 'Courier New', monospace;"><b>Ver Bitácora →</b></a>
@@ -71,7 +71,7 @@
           </p>
           <p style="color: #b8bb26; font-family: 'Courier New', monospace;">~ Botín Obtenido ~</p>
           <p>
-            <img src="https://skillicons.dev/icons?i=react,nodejs,socketio&theme=gruvbox" alt="Tecnologías del Proyecto" />
+            <img src="https://skillicons.dev/icons?i=react,nodejs,socketio&theme=dark" alt="Tecnologías del Proyecto" />
           </p>
           <p>
             <a href="https://github.com/Albonire/CollaboraDocs" style="color: #8ec07c; text-decoration: none; font-family: 'Courier New', monospace;"><b>Ver Bitácora →</b></a>
