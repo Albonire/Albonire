@@ -35,7 +35,7 @@
       </tr>
     </table>
     <br>
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Albonire&layout=compact&locale=es&theme=gruvbox&langs_count=10&count_private=true&exclude_repo=BDI-GB-ZOO" alt="Lenguajes más usados" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Albonire&layout=compact&locale=es&theme=gruvbox&langs_count=10&count_private=true&exclude_repo=BDI-GB-ZOO" alt="Lenguajes más usados" />
   </div>
 
   <!-- Divider -->
