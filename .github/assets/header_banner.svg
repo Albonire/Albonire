@@ -25,6 +25,7 @@
   <g style="filter:url(#sun-glow);">
     <rect class="pixel" fill="#fabd2f" x="650" y="30" width="60" height="60">
       <animate attributeName="fill" values="#fabd2f;#fef08a;#fabd2f" dur="4s" repeatCount="indefinite" />
+      <animateTransform attributeName="transform" type="scale" from="1" to="1.05" begin="0s" dur="4s" repeatCount="indefinite" additive="sum" />
     </rect>
   </g>
   <!-- Far mountains -->
