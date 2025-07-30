@@ -17,7 +17,7 @@
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
 
   <!-- Inventory -->
-  <h3 style="font-family: 'Courier New', monospace; color: #fabd2f; font-size: 24px;">📜 Inventario de Habilidades</h3>
+  <h3 style="font-family: 'Courier New', monospace; color: #fabd2f; font-size: 24px;">📜 Skills Inventory </h3>
   <div style="margin-top: 20px;">
     <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,java,spring,python,nodejs,postgres,mysql,mongodb,aws,git,docker,postman,linux&theme=dark&perline=9" alt="Tecnologías" />
   </div>
@@ -26,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
 
   <!-- Progress Map -->
-  <h3 style="font-family: 'Courier New', monospace; color: #8ec07c; font-size: 24px;">🗺️ Mapa de Progreso</h3>
+  <h3 style="font-family: 'Courier New', monospace; color: #8ec07c; font-size: 24px;">🗺️ Progress Map /h3>
   <div align="center" style="margin-top: 20px;">
     <table border="0" cellpadding="10" cellspacing="0">
       <tr valign="top">
@@ -41,39 +41,39 @@
   <!-- Divider -->
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
 
-  <!-- Completed Quests -->
-  <h3 style="font-family: 'Courier New', monospace; color: #d65d0e; font-size: 24px;">⚔️ Misiones Destacadas</h3>
+
+  <h3 style="font-family: 'Courier New', monospace; color: #d65d0e; font-size: 24px;">⚔️ Features Quests</h3>
   <table width="100%" style="border-collapse: collapse;">
     <tr valign="top">
       <td width="50%" style="padding: 10px;">
         <div style="border: 2px solid #928374; border-radius: 10px; padding: 20px; background-color: #3c3836; text-align: center;">
           <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/potion_icon.svg" alt="Icono de Poción" width="64" height="64"/>
-          <h4 style="color: #fabd2f; font-family: 'Courier New', monospace; margin-top: 10px;">Extensión Pomodoro para YouTube</h4>
+          <h4 style="color: #fabd2f; font-family: 'Courier New', monospace; margin-top: 10px;">Pomodoro Extension for YouTube</h4>
           <p style="color: #ebdbb2; font-family: 'Georgia', serif;">
-            Una herramienta para el aventurero digital. Gestiona tu tiempo con la técnica Pomodoro para mantener la concentración en tu misión actual.
+            A tool for the digital adventurer. Manage your time with the Pomodoro technique to stay focused on your current mission.
           </p>
-          <p style="color: #b8bb26; font-family: 'Courier New', monospace;">~ Botín Obtenido ~</p>
+          <p style="color: #b8bb26; font-family: 'Courier New', monospace;">~ Tools Used ~</p>
           <p>
             <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="Tecnologías del Proyecto" />
           </p>
           <p>
-            <a href="https://github.com/Albonire/pomodoro-youtube" style="color: #8ec07c; text-decoration: none; font-family: 'Courier New', monospace;"><b>Ver Bitácora →</b></a>
+            <a href="https://github.com/Albonire/pomodoro-youtube" style="color: #8ec07c; text-decoration: none; font-family: 'Courier New', monospace;"><b>View Quest Log →</b></a>
           </p>
         </div>
       </td>
       <td width="50%" style="padding: 10px;">
         <div style="border: 2px solid #928374; border-radius: 10px; padding: 20px; background-color: #3c3836; text-align: center;">
           <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/scroll_icon.svg" alt="Icono de Pergamino" width="64" height="64"/>
-          <h4 style="color: #fabd2f; font-family: 'Courier New', monospace; margin-top: 10px;">Editor de Documentos Colaborativo</h4>
+          <h4 style="color: #fabd2f; font-family: 'Courier New', monospace; margin-top: 10px;">Collaborative documents editor</h4>
           <p style="color: #ebdbb2; font-family: 'Georgia', serif;">
-            Un artefacto mágico que permite a los escribas modernos colaborar en tiempo real, usando el poder de los WebSockets para la sincronización instantánea.
+            A magical device that allows modern scribes to collaborate in real time, using the power of WebSockets for instant synchronization.
           </p>
-          <p style="color: #b8bb26; font-family: 'Courier New', monospace;">~ Botín Obtenido ~</p>
+          <p style="color: #b8bb26; font-family: 'Courier New', monospace;">~ Tools Used ~</p>
           <p>
             <img src="https://skillicons.dev/icons?i=react,nodejs,socketio&theme=dark" alt="Tecnologías del Proyecto" />
           </p>
           <p>
-            <a href="https://github.com/Albonire/CollaboraDocs" style="color: #8ec07c; text-decoration: none; font-family: 'Courier New', monospace;"><b>Ver Bitácora →</b></a>
+            <a href="https://github.com/Albonire/CollaboraDocs" style="color: #8ec07c; text-decoration: none; font-family: 'Courier New', monospace;"><b>View Quest Log →</b></a>
           </p>
         </div>
       </td>
