@@ -9,7 +9,7 @@
   <!-- Social Links -->
   <div style="margin-top: 20px;">
     <a href="https://www.linkedin.com/in/anderson-gonzaleza21/"><img src="https://img.shields.io/badge/LinkedIn-83a598?style=for-the-badge&logo=linkedin&logoColor=282828" alt="LinkedIn"></a>
-    <a href="anderdev-one.vercel.app"><img src="https://img.shields.io/badge/Portfolio-d65d0e?style=for-the-badge&logo=dev.to&logoColor=282828" alt="Portfolio"></a>
+    <a href="https://anderdev-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-d65d0e?style=for-the-badge&logo=dev.to&logoColor=282828" alt="Portfolio"></a>
     <a href="mailto:afabianagcris@gmail.com"><img src="https://img.shields.io/badge/Gmail-cc241d?style=for-the-badge&logo=gmail&logoColor=282828" alt="Email"></a>
   </div>
 
