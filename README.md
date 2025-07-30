@@ -26,16 +26,16 @@
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
 
   <!-- Progress Map -->
-  <h3 style="font-family: 'Courier New', monospace; color: #8ec07c; font-size: 24px;">🗺️ Progress Map /h3>
+  <h3 style="font-family: 'Courier New', monospace; color: #8ec07c; font-size: 24px;">🗺️ Progress Map </h3>
   <div align="center" style="margin-top: 20px;">
     <table border="0" cellpadding="10" cellspacing="0">
       <tr valign="top">
-        <td><img src="https://github-readme-stats.vercel.app/api?username=Albonire&show_icons=true&locale=es&theme=gruvbox&count_private=true" alt="Estadísticas de GitHub" /></td>
-        <td><img src="https://streak-stats.vercel.app/api/?user=Albonire&theme=gruvbox&locale=es" alt="Estadísticas de racha de GitHub" /></td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=Albonire&show_icons=true&locale=en&theme=gruvbox&count_private=true" alt="GitHub Stats" /></td>
+        <td><img src="https://streak-stats.vercel.app/api/?user=Albonire&theme=gruvbox&locale=en" alt="GitHub Streak Stats" /></td>
       </tr>
     </table>
     <br>
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Albonire&layout=compact&locale=es&theme=gruvbox&langs_count=10&count_private=true&exclude_repo=BDI-GB-ZOO" alt="Lenguajes más usados" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Albonire&layout=compact&locale=en&theme=gruvbox&langs_count=10&count_private=true&exclude_repo=BDI-GB-ZOO" alt="Most Used Languages" />
   </div>
 
   <!-- Divider -->
@@ -90,7 +90,7 @@
 
   <!-- Footer -->
   <div align="center" style="margin-top: 20px;">
-    <img src="https://komarev.com/ghpvc/?username=Albonire&label=AVENTUREROS+EN+ESTAS+TIERRAS&color=458588&style=flat-square">
+    <img src="https://komarev.com/ghpvc/?username=Albonire&label=ADVENTURERS+IN+THESE+LANDS&color=458588&style=flat-square">
   </div>
 
 </div>
