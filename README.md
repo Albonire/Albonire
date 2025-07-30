@@ -42,7 +42,7 @@
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
 
   <!-- Completed Quests -->
-  <h3 style="font-family: 'Courier New', monospace; color: #d65d0e; font-size: 24px;">⚔️ Misiones Completadas</h3>
+  <h3 style="font-family: 'Courier New', monospace; color: #d65d0e; font-size: 24px;">⚔️ Misiones Destacadas</h3>
   <table width="100%" style="border-collapse: collapse;">
     <tr valign="top">
       <td width="50%" style="padding: 10px;">
