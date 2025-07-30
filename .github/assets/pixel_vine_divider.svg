@@ -1,4 +1,8 @@
-<svg width="800" height="10" xmlns="http://www.w3.org/2000/svg">
-  <style>.pixel{shape-rendering: crispEdges;}</style>
-  <path class="pixel" fill="#b8bb26" d="M0 10 H10 V0 H20 V10 H30 V0 H40 V10 H50 V0 H60 V10 H70 V0 H80 V10 H90 V0 H100 V10 H110 V0 H120 V10 H130 V0 H140 V10 H150 V0 H160 V10 H170 V0 H180 V10 H190 V0 H200 V10 H210 V0 H220 V10 H230 V0 H240 V10 H250 V0 H260 V10 H270 V0 H280 V10 H290 V0 H300 V10 H310 V0 H320 V10 H330 V0 H340 V10 H350 V0 H360 V10 H370 V0 H380 V10 H390 V0 H400 V10 H410 V0 H420 V10 H430 V0 H440 V10 H450 V0 H460 V10 H470 V0 H480 V10 H490 V0 H500 V10 H510 V0 H520 V10 H530 V0 H540 V10 H550 V0 H560 V10 H570 V0 H580 V10 H590 V0 H600 V10 H610 V0 H620 V10 H630 V0 H640 V10 H650 V0 H660 V10 H670 V0 H680 V10 H690 V0 H700 V10 H710 V0 H720 V10 H730 V0 H740 V10 H750 V0 H760 V10 H770 V0 H780 V10 H790 V0 H800 V10 Z" />
+<svg width="800" height="8" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="pixel-pattern" x="0" y="0" width="16" height="8" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="8" height="8" fill="#b8bb26"/>
+    </pattern>
+  </defs>
+  <rect x="0" y="0" width="100%" height="100%" fill="url(#pixel-pattern)" shape-rendering="crispEdges" />
 </svg>
