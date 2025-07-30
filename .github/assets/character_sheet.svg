@@ -1,27 +1,57 @@
 <svg viewBox="0 0 700 280" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <filter id="torn-edge">
-      <feTurbulence type="fractalNoise" baseFrequency="0.02 0.05" numOctaves="3" result="noise"/>
-      <feDisplacementMap in="SourceGraphic" in2="noise" scale="8" xChannelSelector="R" yChannelSelector="G"/>
-    </filter>
-    <linearGradient id="scroll-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color: #fbf1c7;" />
-      <stop offset="100%" style="stop-color: #d5c4a1;" />
-    </linearGradient>
+    <!-- Importar fuente de Google Fonts -->
     <style>
-      .title { font-family: 'Courier New', monospace; color: #3c3836; font-size: 24px; font-weight: bold; }
-      .body { font-family: 'Georgia', serif; font-size: 16px; line-height: 1.5; color: #3c3836; }
+      @import url('https://fonts.googleapis.com/css2?family=Uncial+Antiqua&display=swap');
+      .title { font-family: 'Uncial Antiqua', cursive; fill: #504945; font-size: 28px; font-weight: bold; text-shadow: 1px 1px 1px #a89984; }
+      .body { font-family: 'Georgia', serif; font-size: 16px; line-height: 1.6; fill: #665c54; }
     </style>
+
+    <!-- Filtro para textura de pergamino -->
+    <filter id="parchment-texture" x="0%" y="0%" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.03" numOctaves="2" result="noise"/>
+      <feDiffuseLighting in="noise" lighting-color="#d5c4a1" surfaceScale="2">
+        <feDistantLight azimuth="45" elevation="60" />
+      </feDiffuseLighting>
+    </filter>
+
+    <!-- Filtro para bordes desgastados -->
+    <filter id="torn-edge" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.015 0.04" numOctaves="4" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="10" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+
+    <!-- Gradiente de color para el pergamino -->
+    <linearGradient id="scroll-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f2e5bc" />
+      <stop offset="100%" stop-color="#d8c0a0" />
+    </linearGradient>
+
+    <!-- Sombra para dar profundidad -->
+    <filter id="drop-shadow">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3" result="blur"/>
+      <feOffset in="blur" dx="2" dy="4" result="offsetBlur"/>
+      <feMerge>
+        <feMergeNode in="offsetBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
 
-  <rect x="0" y="0" width="700" height="280" fill="url(#scroll-gradient)" style="filter: url(#torn-edge);" />
+  <!-- Cuerpo del pergamino con textura y bordes -->
+  <g style="filter: url(#drop-shadow);">
+    <rect x="20" y="10" width="660" height="260" fill="url(#scroll-gradient)" style="filter: url(#torn-edge);" />
+    <rect x="20" y="10" width="660" height="260" fill="url(#scroll-gradient)" style="filter: url(#parchment-texture); mix-blend-mode: multiply; opacity: 0.7;" />
+  </g>
 
-  <text x="50%" y="50" text-anchor="middle" class="title">Diario del Aventurero</text>
-
-  <text x="50%" y="90" text-anchor="middle" class="body">
-    <tspan x="50%" dy="1.2em">Apasionado por la arquitectura de software y la forja de soluciones que escalan.</tspan>
-    <tspan x="50%" dy="1.2em">Como un explorador en tierras desconocidas, mi misión es navegar por las fronteras</tspan>
-    <tspan x="50%" dy="1.2em">del desarrollo web y el cloud computing, transformando ideas en artefactos</tspan>
-    <tspan x="50%" dy="1.2em">tecnológicos robustos y llenos de vida.</tspan>
-  </text>
+  <!-- Contenido de texto -->
+  <g transform="translate(0, 10)">
+    <text x="50%" y="50" text-anchor="middle" class="title">Diario del Aventurero</text>
+    <text x="50%" y="90" text-anchor="middle" class="body">
+      <tspan x="50%" dy="1.2em">Apasionado por la arquitectura de software y la forja de soluciones que escalan.</tspan>
+      <tspan x="50%" dy="1.2em">Como un explorador en tierras desconocidas, mi misión es navegar por las fronteras</tspan>
+      <tspan x="50%" dy="1.2em">del desarrollo web y el cloud computing, transformando ideas en artefactos</tspan>
+      <tspan x="50%" dy="1.2em">tecnológicos robustos y llenos de vida.</tspan>
+    </text>
+  </g>
 </svg>
