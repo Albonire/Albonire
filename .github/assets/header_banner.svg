@@ -16,7 +16,7 @@
       <feTurbulence type="fractalNoise" baseFrequency="0.01 0.04" numOctaves="2" result="turbulence">
         <animate attributeName="baseFrequency" dur="8s" values="0.01 0.02;0.015 0.05;0.01 0.02" repeatCount="indefinite"/>
       </feTurbulence>
-      <feDisplacementMap in="SourceGraphic" in2="turbulence" scale="15" />
+      <feDisplacementMap in="SourceGraphic" in2="turbulence" scale="8" />
     </filter>
   </defs>
   <!-- Sky -->
@@ -34,7 +34,7 @@
   <!-- Near mountains -->
   <path class="pixel" fill="#928374" d="M550 170 L600 140 L650 180 L700 150 L750 190 L800 160 L800 200 H550 Z" />
   <!-- Ground -->
-  <rect class="pixel" fill="#458588" x="0" y="180" width="800" height="20" style="filter:url(#water-ripple)"/>
+  <rect class="pixel" fill="#458588" x="0" y="180" width="800" height="40" style="filter:url(#water-ripple)"/>
   <!-- Title -->
   <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="'Courier New', monospace" font-size="40" fill="#ebdbb2" style="text-shadow: 2px 2px #3c3836;">
     Anderson González
