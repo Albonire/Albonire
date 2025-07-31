@@ -55,8 +55,8 @@
   <table width="100%" style="border-collapse: collapse;">
     <tr valign="top">
       <td width="50%" style="padding: 10px;">
-        <div style="border: 2px solid #928374; border-radius: 10px; padding: 20px; background-color: #3c3836; text-align: center;">
-          <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/potion_icon.svg" alt="Icono de Poción" width="64" height="64"/>
+        <div style="border: 2px solid #928374; border-radius: 10px; padding: 20px; background-color: #3c3836; text-align: center; min-height: 350px;">
+          <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/potion_icon.svg" alt="Icono de Poción" width="72" height="72"/>
           <h4 style="color: #fabd2f; font-family: 'Courier New', monospace; margin-top: 10px;">Pomodoro Extension for YouTube.</h4>
           <p style="color: #ebdbb2; font-family: 'Georgia', serif;">
             A tool for the digital adventurer. Manage your time with the Pomodoro technique to stay focused on your current mission.
@@ -71,7 +71,7 @@
         </div>
       </td>
       <td width="50%" style="padding: 10px;">
-        <div style="border: 2px solid #928374; border-radius: 10px; padding: 20px; background-color: #3c3836; text-align: center;">
+        <div style="border: 2px solid #928374; border-radius: 10px; padding: 20px; background-color: #3c3836; text-align: center; min-height: 350px;">
           <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/scroll_icon.svg" alt="Icono de Pergamino" width="64" height="64"/>
           <h4 style="color: #fabd2f; font-family: 'Courier New', monospace; margin-top: 10px;">Collaborative documents editor</h4>
           <p style="color: #ebdbb2; font-family: 'Georgia', serif;">
