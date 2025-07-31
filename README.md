@@ -56,7 +56,7 @@
     <tr valign="top">
       <td width="50%" style="padding: 10px;">
         <div style="border: 2px solid #928374; border-radius: 10px; padding: 20px; background-color: #3c3836; text-align: center; min-height: 350px;">
-          <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/potion_icon.svg" alt="Icono de Poción" width="78" height="78"/>
+          <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/potion_icon.svg" alt="Icono de Poción" width="84" height=84"/>
           <h4 style="color: #fabd2f; font-family: 'Courier New', monospace; margin-top: 10px;">Pomodoro Extension for YouTube.</h4>
           <p style="color: #ebdbb2; font-family: 'Georgia', serif;">
             A tool for the digital adventurer. Manage your time with the Pomodoro technique to stay focused on your current mission.
