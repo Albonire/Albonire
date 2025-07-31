@@ -15,4 +15,5 @@ jobs:
           feed_list: "https://github.com/Albonire.atom"
           max_post_count: 5
           readme_path: "./README.md"
-          template: "$newline- $randomEmoji(,,,,) [$title]($url) - *$date(dd/mm/yyyy)*"
+          template: "
+- [$title]($url) - *$date(dd/mm/yyyy)*"
