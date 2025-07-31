@@ -15,8 +15,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://github.com/Albonire.atom"
-          max_post_count: 5
+          max_post_count: 4
           readme_path: "./README.md"
-          template: "
-- [$title]($url) - *$date*"
+          template: '<tr><td style="padding: 5px 15px;" valign="top"><img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/scroll_icon.svg" width="24" alt="scroll"></td><td style="padding: 5px 0;" valign="top"><a href="$url" style="color:#8ec07c;text-decoration:none; font-family: ''Courier New'', monospace;">$title</a></td><td style="text-align:right;color:#83a598; padding: 5px 0; font-family: ''Courier New'', monospace;" valign="top">$date</td></tr>'
           date_format: "dd/mm/yyyy"
