@@ -18,4 +18,5 @@ jobs:
           max_post_count: 5
           readme_path: "./README.md"
           template: "
-- [$title]($url) - *$date(dd/mm/yyyy)*"
+- [$title]($url) - *$date*"
+          date_format: "dd/mm/yyyy"
