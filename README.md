@@ -73,7 +73,7 @@
       <td width="50%" style="padding: 10px;">
         <div style="border: 2px solid #928374; border-radius: 10px; padding: 20px; background-color: #3c3836; text-align: center; min-height: 350px;">
           <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/scroll_icon.svg" alt="Icono de Pergamino" width="64" height="64"/>
-          <h4 style="color: #fabd2f; font-family: 'Courier New', monospace; margin-top: 10px;">Collaborative documents editor</h4>
+          <h4 style="color: #fabd2f; font-family: 'Courier New', monospace; margin-top: 20px;">Collaborative documents editor</h4>
           <p style="color: #ebdbb2; font-family: 'Georgia', serif;">
             A magical device that allows modern scribes to collaborate in real time, using the power of WebSockets for instant synchronization.
           </p>
