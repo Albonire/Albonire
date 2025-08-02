@@ -36,7 +36,7 @@
       </tr>
     </table>
     <br>
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Albonire&layout=compact&locale=en&theme=gruvbox&langs_count=10&count_private=true&exclude_repo=BDI-GB-ZOO" alt="Most Used Languages" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Albonire&layout=compact&locale=en&theme=gruvbox&langs_count=10&count_private=true&exclude_repo=BDI-GB-ZOO" alt="Most Used Languages" />
   </div>
 
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
