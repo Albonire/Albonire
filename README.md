@@ -1,31 +1,32 @@
 <div align="center" style="background-color: #282828; padding: 20px; border-radius: 15px;">
 
-  <!-- Header Banner -->
+
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/header_banner.svg" alt="Banner de Aventura Pixel Art"/>
 
-  <!-- Character Sheet -->
-  <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/character_sheet.svg" alt="Diario del Aventurero" width="100%"/>
+  <div style="margin-top: 20px; padding: 0 25px;">
+    <p style="font-family: 'Georgia', serif; color: #ebdbb2; font-size: 16px;">
+      Systems Engineering student and Junior Full-Stack Developer with a passion for building modern web applications. I work with React, Next.js, and TypeScript on the frontend, and enjoy exploring backend development with Python (Django, FastAPI) and Node.js. I love turning ideas into clean, functional code and creating great user experiences. Currently expanding my skills and exploring cloud technologies, always excited to take on new challenges and collaborate with others.
+    </p>
+  </div>
 
-  <!-- Social Links -->
   <div style="margin-top: 20px;">
     <a href="https://www.linkedin.com/in/anderson-gonzaleza21/"><img src="https://img.shields.io/badge/LinkedIn-83a598?style=for-the-badge&logo=linkedin&logoColor=282828" alt="LinkedIn"></a>
     <a href="https://anderdev-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-d65d0e?style=for-the-badge&logo=dev.to&logoColor=282828" alt="Portfolio"></a>
     <a href="mailto:afabianagcris@gmail.com"><img src="https://img.shields.io/badge/Gmail-cc241d?style=for-the-badge&logo=gmail&logoColor=282828" alt="Email"></a>
   </div>
 
-  <!-- Divider -->
+
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
 
-  <!-- Inventory -->
+
   <h3 style="font-family: 'Courier New', monospace; color: #fabd2f; font-size: 24px;">📜 Skills Inventory </h3>
   <div style="margin-top: 20px;">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,java,spring,python,nodejs,postgres,mysql,mongodb,aws,git,docker,postman,linux&theme=dark&perline=9" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,python,django,fastapi,nodejs,postgres,git,vercel,fedora,postman,unity&theme=dark&perline=9" alt="Tecnologías" />
   </div>
 
-  <!-- Divider -->
+
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
 
-  <!-- Progress Map -->
   <h3 style="font-family: 'Courier New', monospace; color: #8ec07c; font-size: 24px;">🗺️ Progress Map </h3>
   <div align="center" style="margin-top: 20px;">
     <table border="0" cellpadding="10" cellspacing="0">
@@ -38,10 +39,8 @@
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Albonire&layout=compact&locale=en&theme=gruvbox&langs_count=10&count_private=true&exclude_repo=BDI-GB-ZOO" alt="Most Used Languages" />
   </div>
 
-  <!-- Divider -->
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
 
-  <!-- Recent Activity -->
   <h3 style="font-family: 'Courier New', monospace; color: #fabd2f; font-size: 24px;">📜 Recent Activity 📜</h3>
   <table width="100%" style="border-collapse: collapse;">
   <!-- BLOG-POST-LIST:START --><tr><td style="padding: 5px 15px;" valign="top"><img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/scroll_icon.svg" width="24" alt="scroll"></td><td style="padding: 5px 0;" valign="top"><a href="https://github.com/Albonire/Albonire/compare/1d32c97bd1...55253a736c" style="color:#8ec07c;text-decoration:none; font-family: 'Courier New', monospace;">Albonire pushed to main in Albonire/Albonire</a></td><td style="text-align:right;color:#83a598; padding: 5px 0; font-family: 'Courier New', monospace;" valign="top">31/07/2025</td></tr><tr><td style="padding: 5px 15px;" valign="top"><img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/scroll_icon.svg" width="24" alt="scroll"></td><td style="padding: 5px 0;" valign="top"><a href="https://github.com/Albonire/Albonire/compare/515443e2a7...1d32c97bd1" style="color:#8ec07c;text-decoration:none; font-family: 'Courier New', monospace;">Albonire pushed to main in Albonire/Albonire</a></td><td style="text-align:right;color:#83a598; padding: 5px 0; font-family: 'Courier New', monospace;" valign="top">30/07/2025</td></tr><tr><td style="padding: 5px 15px;" valign="top"><img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/scroll_icon.svg" width="24" alt="scroll"></td><td style="padding: 5px 0;" valign="top"><a href="https://github.com/Albonire/Albonire/compare/86ca471c9f...515443e2a7" style="color:#8ec07c;text-decoration:none; font-family: 'Courier New', monospace;">Albonire pushed to main in Albonire/Albonire</a></td><td style="text-align:right;color:#83a598; padding: 5px 0; font-family: 'Courier New', monospace;" valign="top">30/07/2025</td></tr><tr><td style="padding: 5px 15px;" valign="top"><img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/scroll_icon.svg" width="24" alt="scroll"></td><td style="padding: 5px 0;" valign="top"><a href="https://github.com/Albonire/Albonire/compare/dff1a85201...86ca471c9f" style="color:#8ec07c;text-decoration:none; font-family: 'Courier New', monospace;">Albonire pushed to main in Albonire/Albonire</a></td><td style="text-align:right;color:#83a598; padding: 5px 0; font-family: 'Courier New', monospace;" valign="top">30/07/2025</td></tr><!-- BLOG-POST-LIST:END -->
