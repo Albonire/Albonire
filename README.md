@@ -42,10 +42,8 @@
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
 
   <h3 style="font-family: 'Courier New', monospace; color: #fabd2f; font-size: 24px;">📜 Recent Activity 📜</h3>
-  <table width="100%" style="border-collapse: collapse;">
   <!--START_SECTION:activity-->
   <!--END_SECTION:activity-->
-  </table>
 
   <!-- Divider -->
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
