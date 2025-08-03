@@ -20,3 +20,5 @@ jobs:
         with:
           COMMIT_MSG: 'chore: update recent activity'
           MAX_LINES: 5
+          COMMIT_NAME: Albonire
+          COMMIT_EMAIL: action@github.com
