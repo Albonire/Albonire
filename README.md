@@ -5,7 +5,7 @@
 
   <div style="margin-top: 20px; padding: 0 25px;">
     <p style="font-family: 'Georgia', serif; color: #ebdbb2; font-size: 16px;">
-      Systems Engineering student and Junior Full-Stack Developer with a passion for building modern web applications. I work with React, Next.js, and TypeScript on the frontend, and enjoy exploring backend development with Python (Django, FastAPI) and Node.js. I love turning ideas into clean, functional code and creating great user experiences. Currently expanding my skills and exploring cloud technologies, always excited to take on new challenges and collaborate with others.
+      Systems Engineering student and Junior Full-Stack Developer with a passion for building modern web applications, the cloud computing and linux enviroment . I work with React, Next.js, and TypeScript on the frontend, and enjoy exploring backend development with Python (Django, FastAPI) and Node.js. I love turning ideas into clean, functional code and creating great user experiences. Currently expanding my skills and exploring cloud technologies, always excited to take on new challenges and collaborate with others.
     </p>
   </div>
 
@@ -43,7 +43,8 @@
 
   <h3 style="font-family: 'Courier New', monospace; color: #fabd2f; font-size: 24px;">📜 Recent Activity 📜</h3>
   <table width="100%" style="border-collapse: collapse;">
-  <!-- BLOG-POST-LIST:START --><tr><td style="padding: 5px 15px;" valign="top"><img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/scroll_icon.svg" width="24" alt="scroll"></td><td style="padding: 5px 0;" valign="top"><a href="https://github.com/Albonire/Albonire/compare/c851ca70df...ea6852304a" style="color:#8ec07c;text-decoration:none; font-family: 'Courier New', monospace;">Albonire pushed to main in Albonire/Albonire</a></td><td style="text-align:right;color:#83a598; padding: 5px 0; font-family: 'Courier New', monospace;" valign="top">02/08/2025</td></tr><tr><td style="padding: 5px 15px;" valign="top"><img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/scroll_icon.svg" width="24" alt="scroll"></td><td style="padding: 5px 0;" valign="top"><a href="https://github.com/Albonire/Albonire/compare/e5efa8fe81...c851ca70df" style="color:#8ec07c;text-decoration:none; font-family: 'Courier New', monospace;">Albonire pushed to main in Albonire/Albonire</a></td><td style="text-align:right;color:#83a598; padding: 5px 0; font-family: 'Courier New', monospace;" valign="top">02/08/2025</td></tr><tr><td style="padding: 5px 15px;" valign="top"><img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/scroll_icon.svg" width="24" alt="scroll"></td><td style="padding: 5px 0;" valign="top"><a href="https://github.com/Albonire/Albonire/compare/c3122abb9a...e5efa8fe81" style="color:#8ec07c;text-decoration:none; font-family: 'Courier New', monospace;">Albonire pushed to main in Albonire/Albonire</a></td><td style="text-align:right;color:#83a598; padding: 5px 0; font-family: 'Courier New', monospace;" valign="top">02/08/2025</td></tr><tr><td style="padding: 5px 15px;" valign="top"><img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/scroll_icon.svg" width="24" alt="scroll"></td><td style="padding: 5px 0;" valign="top"><a href="https://github.com/Albonire/Albonire/compare/c2d96e3dbf...c3122abb9a" style="color:#8ec07c;text-decoration:none; font-family: 'Courier New', monospace;">Albonire pushed to main in Albonire/Albonire</a></td><td style="text-align:right;color:#83a598; padding: 5px 0; font-family: 'Courier New', monospace;" valign="top">02/08/2025</td></tr><!-- BLOG-POST-LIST:END -->
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
   </table>
 
   <!-- Divider -->
