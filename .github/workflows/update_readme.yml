@@ -14,11 +14,6 @@ jobs:
     name: Update README with recent activity
     steps:
       - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: 'chore: update recent activity'
-          MAX_LINES: 5
-          COMMIT_NAME: Albonire
-          COMMIT_EMAIL: action@github.com
