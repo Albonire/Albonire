@@ -45,9 +45,9 @@
   <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
 2. ⬆️ Pushed 1 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
-3. ⬆️ Pushed 6 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
-4. ⬆️ Pushed 1 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
-5. 📔 Created new repository [Albonire/home-button](https://github.com/Albonire/home-button)<br>
+3. ⬆️ Pushed 1 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
+4. ⬆️ Pushed 6 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
+5. ⬆️ Pushed 1 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
   <!--RECENT_ACTIVITY:end-->
 
   <!-- Divider -->
