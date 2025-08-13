@@ -43,8 +43,8 @@
 
   <h3 style="font-family: 'Courier New', monospace; color: #fabd2f; font-size: 24px;">📜 Recent Activity 📜</h3>
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
-2. ⬆️ Pushed 1 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
+1. ⬆️ Pushed 1 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
+2. ⬆️ Pushed 2 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
 3. ⬆️ Pushed 1 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
 4. ⬆️ Pushed 1 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
 5. ⬆️ Pushed 1 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
