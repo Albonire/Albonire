@@ -1,0 +1,7 @@
+settings:
+  max_lines: 5
+  commit_username: "github-actions[bot]"
+  commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
+  commit_msg: "Update README with recent activity"
+  readme_path: "./README.md"
+  disabled_events: []
