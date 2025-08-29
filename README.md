@@ -95,10 +95,29 @@
   <!-- Divider -->
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
 
-  <!-- Trophies -->
-  <div align="center" style="margin-top: 30px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=Albonire&theme=gruvbox&no-frame=true&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies">
-  </div>
+<!-- Enhanced Achievements Section -->
+<img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
+
+<h3 style="font-family: 'Courier New', monospace; color: #d65d0e; font-size: 24px;">🏆 Adventurer's Achievements</h3>
+
+<div align="center" style="margin-top: 20px;">
+  <table border="0" cellpadding="10" cellspacing="0">
+    <tr valign="top">
+      <td colspan="2" align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=Albonire&theme=gruvbox&no-frame=true&column=6&margin-w=5&margin-h=5" alt="GitHub Trophies" onerror="this.style.display='none';">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albonire&theme=gruvbox&height=300" alt="Activity Graph" />
+      </td>
+      <td align="center" style="vertical-align: top;">
+        <img src="https://streak-stats.demolab.com/?user=Albonire&theme=gruvbox&hide_border=true" alt="GitHub Streak" /><br>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Albonire&repo=pomodoro-youtube&theme=gruvbox&hide_border=true" alt="Featured Repo" />
+      </td>
+    </tr>
+  </table>
+</div>
 
   <!-- Footer -->
   <div align="center" style="margin-top: 20px;">
