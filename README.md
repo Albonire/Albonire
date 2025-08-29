@@ -40,9 +40,10 @@
   </div>
 
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
-
   <h3 style="font-family: 'Courier New', monospace; color: #fabd2f; font-size: 24px;">📜 Recent Activity 📜</h3>
-  <!--RECENT_ACTIVITY:start-->
+
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
 1. ⬆️ Pushed 1 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
 2. ⬆️ Pushed 5 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
 3. ⬆️ Pushed 1 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
@@ -97,7 +98,7 @@
 
   <!-- Trophies -->
   <div align="center" style="margin-top: 30px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=Albonire&theme=gruvbox&no-frame=true&row=1&column=7" alt="Trofeos de GitHub">
+    <img src="https://github-profile-trophy.vercel.app/?username=Albonire&theme=gruvbox&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" alt="Trofeos de GitHub">
   </div>
 
   <!-- Footer -->
