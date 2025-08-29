@@ -97,7 +97,7 @@
 
   <!-- Trophies -->
   <div align="center" style="margin-top: 30px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=Albonire&theme=gruvbox&no-frame=true&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trofeos de GitHub">
+    <img src="https://github-profile-trophy.vercel.app/?username=Albonire&theme=gruvbox&no-frame=true&column=6&rank=-?" alt="Trofeos de GitHub">
   </div>
 
   <!-- Footer -->
