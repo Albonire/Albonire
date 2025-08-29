@@ -42,15 +42,12 @@
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
   <h3 style="font-family: 'Courier New', monospace; color: #fabd2f; font-size: 24px;">📜 Recent Activity 📜</h3>
 
-  <!--START_SECTION:activity-->
-  1. ⭐ Starred [owner/repo](https://github.com/owner/repo)
-  <!--END_SECTION:activity-->
-  <!--END_SECTION:activity-->
-1. ⬆️ Pushed 1 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
-2. ⬆️ Pushed 5 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
-3. ⬆️ Pushed 1 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
-4. ⬆️ Pushed 1 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
-5. ⬆️ Pushed 1 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
+  <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)
+2. ⬆️ Pushed 5 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)
+3. ⬆️ Pushed 1 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)
+4. ⬆️ Pushed 1 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)
+5. ⬆️ Pushed 1 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)
   <!--RECENT_ACTIVITY:end-->
 
   <!-- Divider -->
