@@ -109,8 +109,7 @@
     <tr valign="top">
       <td align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albonire&theme=gruvbox&height=300" alt="Activity Graph" />
-      </td>
-      
+      </td> 
     </tr>
   </table>
 </div>
