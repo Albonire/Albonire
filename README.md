@@ -92,7 +92,6 @@
     </tr>
   </table>
 
-  <!-- Divider -->
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
 
 <!-- Enhanced Achievements Section -->
@@ -111,10 +110,7 @@
       <td align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albonire&theme=gruvbox&height=300" alt="Activity Graph" />
       </td>
-      <td align="center" style="vertical-align: top;">
-        <img src="https://streak-stats.demolab.com/?user=Albonire&theme=gruvbox&hide_border=true" alt="GitHub Streak" /><br>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Albonire&repo=pomodoro-youtube&theme=gruvbox&hide_border=true" alt="Featured Repo" />
-      </td>
+      
     </tr>
   </table>
 </div>
