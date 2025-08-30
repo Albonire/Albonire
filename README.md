@@ -54,7 +54,7 @@
           </p>
           <p style="color: #b8bb26; font-family: 'Courier New', monospace;">~ Tools Used ~</p>
           <p>
-            <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="Tecnologías del Proyecto" />
+            <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="Project Technologies" />
           </p>
           <p>
             <a href="https://github.com/Albonire/pomodoro-youtube" style="color: #8ec07c; text-decoration: none; font-family: 'Courier New', monospace;"><b>View Quest Log →</b></a>
