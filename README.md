@@ -97,13 +97,12 @@
 <!-- Enhanced Achievements Section -->
 <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
 
-<h3 style="font-family: 'Courier New', monospace; color: #d65d0e; font-size: 24px;">🏆 Adventurer's Achievements</h3>
 
 <div align="center" style="margin-top: 20px;">
   <table border="0" cellpadding="10" cellspacing="0">
     <tr valign="top">
       <td colspan="2" align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=Albonire&theme=gruvbox&no-frame=true&column=6&margin-w=5&margin-h=5" alt="GitHub Trophies" onerror="this.style.display='none';">
+        <img src="https://github-profile-trophy.vercel.app/?username=Albonire&theme=gruvbox&no-frame=true&column=6&margin-w=5&margin-h=5" alt="Achievements" onerror="this.style.display='none';">
       </td>
     </tr>
     <tr valign="top">
