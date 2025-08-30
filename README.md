@@ -21,7 +21,7 @@
 
   <h3 style="font-family: 'Courier New', monospace; color: #fabd2f; font-size: 24px;">📜 Skills Inventory </h3>
   <div style="margin-top: 20px;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,python,django,fastapi,nodejs,postgres,git,vercel,linux,postman,unity&theme=dark&perline=9" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,python,django,fastapi,nodejs,postgres,git,vercel,linux,postman,unity&theme=dark&perline=9" alt="Technologies" />
   </div>
 
 
