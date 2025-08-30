@@ -94,10 +94,6 @@
 
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
 
-<!-- Enhanced Achievements Section -->
-<img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
-
-
 <div align="center" style="margin-top: 20px;">
   <table border="0" cellpadding="10" cellspacing="0">
     <tr valign="top">
