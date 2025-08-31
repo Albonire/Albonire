@@ -108,12 +108,18 @@
     </p>
     
     <!--RECENT_ACTIVITY:start-->
+⚔️ ⬆️ Pushed 1 commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
+⚔️ ⬆️ Pushed 1 commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
+⚔️ ⬆️ Pushed 1 commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
+⚔️ ⬆️ Pushed 1 commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
+⚔️ ⬆️ Pushed 1 commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
     <!--RECENT_ACTIVITY:end-->
     
     <hr style="border: 1px solid #928374; margin: 20px 0;">
     
     <p style="color: #a89984; font-family: 'Courier New', monospace; font-size: 12px; margin: 0;">
       <!--RECENT_ACTIVITY:last_update-->
+⏰ Last Chronicles Update: {{date}}
       <!--RECENT_ACTIVITY:last_update_end-->
     </p>
   </div>
