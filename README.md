@@ -5,7 +5,7 @@
 
   <div style="margin-top: 20px; padding: 0 25px;">
     <p style="font-family: 'Georgia', serif; color: #ebdbb2; font-size: 16px;">
-      Systems Engineering student and Junior Full-Stack Developer with a passion for building modern web applications, the cloud computing and linux enviroment . I work with React, Next.js, and TypeScript on the frontend, and enjoy exploring backend development with Python (Django, FastAPI) and Node.js. I love turning ideas into clean, functional code and creating great user experiences. Currently expanding my skills and exploring cloud technologies, always excited to take on new challenges and collaborate with others.
+      I'm a Systems Engineering student and Junior Full-Stack Developer who loves building modern web apps, especially in the cloud and Linux environments. I work with React, Next.js, and TypeScript on the frontend, and enjoy backend work with Python (Django, FastAPI) and Node.js. Turning ideas into clean, user-friendly code is my thing. I'm always learning new skills, especially cloud tech, and love collaborating on challenges.
     </p>
   </div>
 
