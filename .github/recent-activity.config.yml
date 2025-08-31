@@ -1,15 +1,22 @@
 settings:
-  commit_msg: "chore: update README with recent activity"
+  username: "Albonire"
+  commit_msg: "📜 Quest Log Updated: Recent adventures recorded"
   max_lines: 5
   readme_file: ./README.md
+  
   disabled_events:
     - comments
+    - wiki
+    - member
+  
   date:
     timezone: "America/Bogota"
-    text: "Last Updated: {{date}}"
+    text: "⏰ Last Chronicles Update: {{date}}"
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
-  commit_name: github-actions[bot]
-  commit_email: 41898282+github-actions[bot]@users.noreply.github.com
-  line_prefix: "1. "
+  
+  commit_name: "github-actions[bot]"
+  commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
+  
+  line_prefix: "⚔️ "
   list_prefix: ""
   use_pre: false

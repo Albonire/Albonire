@@ -97,6 +97,28 @@
   </table>
 </div>
 
+<img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
+
+<h3 style="font-family: 'Courier New', monospace; color: #fabd2f; font-size: 24px;">📜 Quest Journal - Recent Adventures</h3>
+
+<div align="center" style="margin-top: 20px;">
+  <div style="background-color: #3c3836; border: 2px solid #928374; border-radius: 10px; padding: 20px; max-width: 600px;">
+    <p style="color: #ebdbb2; font-family: 'Georgia', serif; margin-bottom: 15px; font-style: italic;">
+      "The chronicles of a digital adventurer's recent quests..."
+    </p>
+    
+    <!--RECENT_ACTIVITY:start-->
+    <!--RECENT_ACTIVITY:end-->
+    
+    <hr style="border: 1px solid #928374; margin: 20px 0;">
+    
+    <p style="color: #a89984; font-family: 'Courier New', monospace; font-size: 12px; margin: 0;">
+      <!--RECENT_ACTIVITY:last_update-->
+      <!--RECENT_ACTIVITY:last_update_end-->
+    </p>
+  </div>
+</div>
+
   <!-- Footer -->
   <div align="center" style="margin-top: 20px;">
     <img src="https://komarev.com/ghpvc/?username=Albonire&label=ADVENTURERS+IN+THESE+LANDS&color=458588&style=flat-square">
