@@ -99,29 +99,30 @@
 
 <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
 
-<h3 style="font-family: 'Courier New', monospace; color: #fabd2f; font-size: 24px;">📜 Quest Journal - Recent Adventures</h3>
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #fabd2f; font-size: 24px;">📜 Quest Journal - Recent Adventures</h3>
 
-<div align="center" style="margin-top: 20px;">
-  <div style="background-color: #3c3836; border: 2px solid #928374; border-radius: 10px; padding: 20px; max-width: 600px;">
-    <p style="color: #ebdbb2; font-family: 'Georgia', serif; margin-bottom: 15px; font-style: italic;">
-      "The chronicles of a digital adventurer's recent quests..."
-    </p>
-    
-    <!--RECENT_ACTIVITY:start-->
+<div align="center">
+  <table border="0" cellpadding="10" cellspacing="0" style="background-color: #3c3836; border: 2px solid #928374; border-radius: 10px;">
+    <tr>
+      <td align="center">
+        <!--RECENT_ACTIVITY:start-->
 ⚔️ ⭐ Starred [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)<br>
 ⚔️ ⬆️ Pushed 1 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
 ⚔️ ⬆️ Pushed 2 commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
 ⚔️ ⬆️ Pushed 1 commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
 ⚔️ ⬆️ Pushed 1 commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
-    <!--RECENT_ACTIVITY:end-->
-    
-    <hr style="border: 1px solid #928374; margin: 20px 0;">
-    
-    <p style="color: #a89984; font-family: 'Courier New', monospace; font-size: 12px; margin: 0;">
-      <!--RECENT_ACTIVITY:last_update-->
+        <!--RECENT_ACTIVITY:end-->
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border-top: 1px solid #928374; padding-top: 10px;">
+        <!--RECENT_ACTIVITY:last_update-->
 ⏰ Last Chronicles Update: {{date}}
-      <!--RECENT_ACTIVITY:last_update_end-->
-    </p>
+        <!--RECENT_ACTIVITY:last_update_end-->
+      </td>
+    </tr>
+  </table>
+</div>
   </div>
 
   <!-- Footer -->
