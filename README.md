@@ -50,7 +50,7 @@
           <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/potion_icon.svg" alt="Icono de Poción" width="64" height="64"/>
           <h4 style="color: #fabd2f; font-family: 'Courier New', monospace; margin-top: -1rem;">Pomodoro Extension for YouTube.</h4>
           <p style="color: #ebdbb2; font-family: 'Georgia', serif;">
-            A tool for the digital adventurer. Manage your time with the Pomodoro technique to stay focused on your current mission.
+            A tool for the digital adventurer. Manage your time with the Pomodoro technique to stay focused on your current video.
           </p>
           <p style="color: #b8bb26; font-family: 'Courier New', monospace;">~ Tools Used ~</p>
           <p>
