@@ -3,11 +3,34 @@
 
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/header_banner.svg" alt="Banner de Aventura Pixel Art"/>
 
- <div style="margin-top: 20px; padding: 0 25px;">
-    <div align="center">
-      <img src="https://readme-typing-svg.demolab.com/?lines=I'm+a+Systems+Engineering+student;Junior+Full-Stack+Developer;Building+modern+web+apps;Cloud+and+Linux+environments;React,+Next.js,+TypeScript;Python,+Django,+FastAPI,+Node.js;Turning+ideas+into+clean+code;Always+learning+new+skills;Love+collaborating+on+challenges&font=Georgia&color=ebdbb2&size=18&width=600&height=60&duration=3000&pause=1000&center=true&vCenter=true" alt="Typing SVG" />
-    </div>
+  <div align="center">
+  <!-- Marco superior pixel art -->
+  <div style="font-family: monospace; color: #fabd2f; font-size: 12px; letter-spacing: 2px;">
+    ╭─────────────────────────────────────────╮
   </div>
+  <div style="font-family: monospace; color: #fabd2f; font-size: 12px;">
+    │  🎓 ENGINEERING STUDENT & DEVELOPER 💻  │
+  </div>
+  <div style="font-family: monospace; color: #fabd2f; font-size: 12px; letter-spacing: 2px;">
+    ╰─────────────────────────────────────────╯
+  </div>
+  
+  <!-- Typewriter mejorado -->
+  <div style="margin: 10px 0;">
+    <img src="https://readme-typing-svg.demolab.com/?lines=🎓+Systems+Engineering+Student;💻+Full-Stack+Developer;⚡+Cloud+Enthusiast;🚀+React+%26+TypeScript;🐍+Python+%26+Django;☁️+AWS+Solutions;💡+Creative+Problem+Solver;🌟+Continuous+Learner&font=Courier+Prime&color=8ec07c&background=282828&size=17&width=380&height=50&duration=2800&pause=700&center=true&vCenter=true&repeat=true" alt="Student Developer Journey" />
+  </div>
+  
+  <!-- Marco inferior con detalles -->
+  <div style="font-family: monospace; color: #928374; font-size: 10px;">
+    ════════════════════════════════════════════
+  </div>
+  <div style="font-family: monospace; color: #928374; font-size: 10px;">
+    🔧 Building • 🎯 Learning • ⚡ Growing
+  </div>
+  <div style="font-family: monospace; color: #928374; font-size: 10px;">
+    ════════════════════════════════════════════
+  </div>
+</div>
 
   <div style="margin-top: 20px;">
     <a href="https://www.linkedin.com/in/anderson-gonzaleza21/"><img src="https://img.shields.io/badge/LinkedIn-83a598?style=for-the-badge&logo=linkedin&logoColor=282828" alt="LinkedIn"></a>
