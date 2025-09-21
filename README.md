@@ -4,9 +4,37 @@
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/header_banner.svg" alt="Banner de Aventura Pixel Art"/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🎓-Systems_Engineering_Student-fabd2f?style=for-the-badge&labelColor=282828" alt="Student Badge" />
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=💻+Passionate+Developer;🚀+Building+Tomorrow;💡+Creative+Thinker;🌟+Always+Curious;⚡+Code+Enthusiast;🎯+Dream+Chaser;🔥+Tech+Explorer;✨+Future+Engineer&font=Fira+Code&color=fabd2f&background=282828&size=16&width=380&height=50&duration=2500&pause=500&center=true&vCenter=true&repeat=true" alt="Developer Identity" />
+
+<!-- Header limpio -->
+<h1>👋 Hi, I'm Anderson González</h1>
+
+<!-- Badge de estudiante con emoji integrado -->
+<img src="https://img.shields.io/static/v1?label=🎓&message=Systems%20Engineering%20Student&color=fabd2f&style=for-the-badge&labelColor=282828" alt="Student Badge" />
+
+<!-- Typewriter principal -->
+<img id="typing-svg" src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Systems+Engineering+Student;Problem+Solver;Building+Digital+Solutions;Always+Learning+%26+Growing;Code+Enthusiast;Future+Software+Engineer&font=Fira+Code&color=fabd2f&background=282828&size=18&width=420&height=60&duration=3000&pause=1000&center=true&vCenter=true&repeat=true" alt="Typing Animation" />
+
+<!-- Progreso visual mejorado -->
+<br><br>
+<table align="center">
+<tr>
+<td align="center">
+📈 <strong>Learning Journey</strong><br>
+<code>████████░░</code> <strong>80%</strong>
+</td>
+<td align="center">
+🎯 <strong>Current Focus</strong><br>
+<code>Full-Stack Development</code>
+</td>
+</tr>
+</table>
+
+<!-- Stats personalizados -->
+<br>
+<img src="https://img.shields.io/badge/Experience-2+_Years-brightgreen?style=flat-square" alt="Experience" />
+<img src="https://img.shields.io/badge/Projects-10+_Completed-blue?style=flat-square" alt="Projects" />
+<img src="https://img.shields.io/badge/Learning-Never_Stops-orange?style=flat-square" alt="Learning" />
+
 </div>
 
 
