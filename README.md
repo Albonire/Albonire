@@ -4,18 +4,32 @@
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/header_banner.svg" alt="Banner de Aventura Pixel Art"/>
 
   <div align="center">
-  <img src="https://img.shields.io/badge/🎓-Systems_Engineering_Student-fabd2f?style=for-the-badge&labelColor=282828" alt="Student Badge" />
+  <!-- Marco superior pixel art -->
+  <div style="font-family: monospace; color: #fabd2f; font-size: 12px; letter-spacing: 2px;">
+    ╭─────────────────────────────────────────╮
+  </div>
+  <div style="font-family: monospace; color: #fabd2f; font-size: 12px;">
+    │  🎓 ENGINEERING STUDENT & DEVELOPER 💻  │
+  </div>
+  <div style="font-family: monospace; color: #fabd2f; font-size: 12px; letter-spacing: 2px;">
+    ╰─────────────────────────────────────────╯
+  </div>
   
-  <br><br>
+  <!-- Typewriter mejorado -->
+  <div style="margin: 10px 0;">
+    <img src="https://readme-typing-svg.demolab.com/?lines=🎓+Systems+Engineering+Student;💻+Full-Stack+Developer;⚡+Cloud+Enthusiast;🚀+React+%26+TypeScript;🐍+Python+%26+Django;☁️+AWS+Solutions;💡+Creative+Problem+Solver;🌟+Continuous+Learner&font=Courier+Prime&color=8ec07c&background=282828&size=17&width=380&height=50&duration=2800&pause=700&center=true&vCenter=true&repeat=true" alt="Student Developer Journey" />
+  </div>
   
-  <img src="https://readme-typing-svg.demolab.com/?lines=💻+Passionate+Developer;🚀+Building+Tomorrow;💡+Creative+Thinker;🌟+Always+Curious;⚡+Code+Enthusiast;🎯+Dream+Chaser;🔥+Tech+Explorer;✨+Future+Engineer&font=Fira+Code&color=fabd2f&background=282828&size=16&width=350&height=45&duration=2500&pause=500&center=true&vCenter=true&repeat=true" alt="Developer Identity" />
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/Growth_Progress-85%25-8ec07c?style=flat-square&labelColor=282828&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTggMkw5IDEwSDdMOCAyWiIgZmlsbD0iIzhlYzA3YyIvPgo8Y2lyY2xlIGN4PSI4IiBjeT0iMTMiIHI9IjEiIGZpbGw9IiM4ZWMwN2MiLz4KPC9zdmc+Cg==" alt="Growth" />
-  
-  <br>
-  <sub>🌱 ▓▓▓▓▓▓▓▓▓░ Blooming into greatness</sub>
+  <!-- Marco inferior con detalles -->
+  <div style="font-family: monospace; color: #928374; font-size: 10px;">
+    ════════════════════════════════════════════
+  </div>
+  <div style="font-family: monospace; color: #928374; font-size: 10px;">
+    🔧 Building • 🎯 Learning • ⚡ Growing
+  </div>
+  <div style="font-family: monospace; color: #928374; font-size: 10px;">
+    ════════════════════════════════════════════
+  </div>
 </div>
 
   <div style="margin-top: 20px;">
