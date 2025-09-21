@@ -4,21 +4,18 @@
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/header_banner.svg" alt="Banner de Aventura Pixel Art"/>
 
   <div align="center">
-  <!-- Icono parpadeante de estudiante -->
-  <div style="margin-bottom: 10px;">
-    <img src="https://img.shields.io/badge/🎓-Systems_Engineering_Student-fabd2f?style=for-the-badge&labelColor=282828" alt="Student Badge" />
-  </div>
+  <img src="https://img.shields.io/badge/🎓-Systems_Engineering_Student-fabd2f?style=for-the-badge&labelColor=282828" alt="Student Badge" />
   
-  <!-- Typewriter enfocado en identidad y pasión -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=💻+Full-Stack+Developer;🚀+Building+the+Future;💡+Problem+Solver;🌟+Always+Learning;⚡+Creating+Solutions;🎯+Passionate+Coder;🔥+Innovation+Minded;✨+Making+Ideas+Real&font=Fira+Code&color=fabd2f&background=282828&size=16&width=350&height=45&duration=2500&pause=500&center=true&vCenter=true&repeat=true" alt="Developer Passion" />
+  <br><br>
   
-  <!-- Barra de progreso visual -->
-  <div style="margin-top: 10px; width: 350px; height: 4px; background-color: #3c3836; border-radius: 2px; overflow: hidden;">
-    <div style="height: 100%; width: 85%; background: linear-gradient(90deg, #b8bb26, #fabd2f, #d65d0e); animation: pulse 2s infinite;"></div>
-  </div>
-  <div style="font-family: monospace; color: #928374; font-size: 11px; margin-top: 5px;">
-    Learning Journey: 85% ▓▓▓▓▓▓▓▓▓░
-  </div>
+  <img src="https://readme-typing-svg.demolab.com/?lines=💻+Passionate+Developer;🚀+Building+Tomorrow;💡+Creative+Thinker;🌟+Always+Curious;⚡+Code+Enthusiast;🎯+Dream+Chaser;🔥+Tech+Explorer;✨+Future+Engineer&font=Fira+Code&color=fabd2f&background=282828&size=16&width=350&height=45&duration=2500&pause=500&center=true&vCenter=true&repeat=true" alt="Developer Identity" />
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/Growth_Progress-85%25-8ec07c?style=flat-square&labelColor=282828&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTggMkw5IDEwSDdMOCAyWiIgZmlsbD0iIzhlYzA3YyIvPgo8Y2lyY2xlIGN4PSI4IiBjeT0iMTMiIHI9IjEiIGZpbGw9IiM4ZWMwN2MiLz4KPC9zdmc+Cg==" alt="Growth" />
+  
+  <br>
+  <sub>🌱 ▓▓▓▓▓▓▓▓▓░ Blooming into greatness</sub>
 </div>
 
   <div style="margin-top: 20px;">
