@@ -4,31 +4,17 @@
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/header_banner.svg" alt="Banner de Aventura Pixel Art"/>
 
   <div align="center">
-  <!-- Marco superior pixel art -->
-  <div style="font-family: monospace; color: #fabd2f; font-size: 12px; letter-spacing: 2px;">
-    ╭─────────────────────────────────────────╮
-  </div>
-  <div style="font-family: monospace; color: #fabd2f; font-size: 12px;">
-    │  🎓 ENGINEERING STUDENT & DEVELOPER 💻  │
-  </div>
-  <div style="font-family: monospace; color: #fabd2f; font-size: 12px; letter-spacing: 2px;">
-    ╰─────────────────────────────────────────╯
+  <div style="margin-bottom: 10px;">
+    <img src="https://img.shields.io/badge/🎓-Systems_Engineering_Student-fabd2f?style=for-the-badge&labelColor=282828" alt="Student Badge" />
   </div>
   
-  <!-- Typewriter mejorado -->
-  <div style="margin: 10px 0;">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🎓+Systems+Engineering+Student;💻+Full-Stack+Developer;⚡+Cloud+Enthusiast;🚀+React+%26+TypeScript;🐍+Python+%26+Django;☁️+AWS+Solutions;💡+Creative+Problem+Solver;🌟+Continuous+Learner&font=Courier+Prime&color=8ec07c&background=282828&size=17&width=380&height=50&duration=2800&pause=700&center=true&vCenter=true&repeat=true" alt="Student Developer Journey" />
-  </div>
+  <img src="https://readme-typing-svg.demolab.com/?lines=💻+Passionate+Developer;🚀+Building+Tomorrow;💡+Creative+Thinker;🌟+Always+Curious;⚡+Code+Enthusiast;🎯+Dream+Chaser;🔥+Tech+Explorer;✨+Future+Engineer&font=Fira+Code&color=fabd2f&background=282828&size=16&width=350&height=45&duration=2500&pause=500&center=true&vCenter=true&repeat=true" alt="Developer Identity" />
   
-  <!-- Marco inferior con detalles -->
-  <div style="font-family: monospace; color: #928374; font-size: 10px;">
-    ════════════════════════════════════════════
+  <div style="margin-top: 10px; width: 350px; height: 4px; background-color: #3c3836; border-radius: 2px; overflow: hidden;">
+    <div style="height: 100%; width: 85%; background: linear-gradient(90deg, #b8bb26, #fabd2f, #d65d0e); animation: pulse 2s infinite;"></div>
   </div>
-  <div style="font-family: monospace; color: #928374; font-size: 10px;">
-    🔧 Building • 🎯 Learning • ⚡ Growing
-  </div>
-  <div style="font-family: monospace; color: #928374; font-size: 10px;">
-    ════════════════════════════════════════════
+  <div style="font-family: monospace; color: #928374; font-size: 11px; margin-top: 5px;">
+    Growth Progress: 85% ▓▓▓▓▓▓▓▓▓░
   </div>
 </div>
 
