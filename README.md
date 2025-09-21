@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/static/v1?label=Student&message=Systems%20Engineering&color=fabd2f&style=for-the-badge&labelColor=282828" alt="Student Badge" />
  <br>
 <!-- Typewriter principal -->
-<img id="typing-svg" src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Making+simple+things+complicated+since+day+1;Systems+Engineering+Student;Problem+Solver;Building+Digital+Solutions;Always+Learning+%26+Growing;Code+Enthusiast;Future+Software+Engineer&font=Fira+Code&color=fabd2f&background=282828&size=18&width=450&height=60&duration=3000&pause=1000&center=true&vCenter=true&repeat=true" alt="Typing Animation" />
+<img id="typing-svg" src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Binary+fluent+speaker🗣️;Systems+Engineering+Student;Problem+Solver;Building+Digital+Solutions;Always+Learning+%26+Growing;Code+Enthusiast;Future+Software+Engineer&font=Fira+Code&color=fabd2f&background=282828&size=18&width=450&height=60&duration=3000&pause=1000&center=true&vCenter=true&repeat=true" alt="Typing Animation" />
 
 <!-- Progreso visual mejorado -->
 <br>
