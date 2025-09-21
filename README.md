@@ -4,33 +4,16 @@
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/header_banner.svg" alt="Banner de Aventura Pixel Art"/>
 
   <div align="center">
-  <!-- Marco superior pixel art -->
-  <div style="font-family: monospace; color: #fabd2f; font-size: 12px; letter-spacing: 2px;">
-    ╭─────────────────────────────────────────╮
-  </div>
-  <div style="font-family: monospace; color: #fabd2f; font-size: 12px;">
-    │  🎓 ENGINEERING STUDENT & DEVELOPER 💻  │
-  </div>
-  <div style="font-family: monospace; color: #fabd2f; font-size: 12px; letter-spacing: 2px;">
-    ╰─────────────────────────────────────────╯
-  </div>
+  <!-- Badge de estudiante -->
+  <img src="https://img.shields.io/badge/🎓-Systems_Engineering_Student-fabd2f?style=for-the-badge&labelColor=282828" alt="Student Badge" />
   
-  <!-- Typewriter mejorado -->
-  <div style="margin: 10px 0;">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🎓+Systems+Engineering+Student;💻+Full-Stack+Developer;⚡+Cloud+Enthusiast;🚀+React+%26+TypeScript;🐍+Python+%26+Django;☁️+AWS+Solutions;💡+Creative+Problem+Solver;🌟+Continuous+Learner&font=Courier+Prime&color=8ec07c&background=282828&size=17&width=380&height=50&duration=2800&pause=700&center=true&vCenter=true&repeat=true" alt="Student Developer Journey" />
-  </div>
+  <!-- Typewriter effect (solo URL, sin HTML extra) -->
+  <img src="https://readme-typing-svg.demolab.com/?lines=💻+Passionate+Developer;🚀+Building+Tomorrow;💡+Creative+Thinker;🌟+Always+Curious;⚡+Code+Enthusiast;🎯+Dream+Chaser;🔥+Tech+Explorer;✨+Future+Engineer&font=Fira+Code&color=fabd2f&background=282828&size=16&width=350&height=45&duration=2500&pause=500&center=true&vCenter=true&repeat=true" alt="Developer Identity" />
   
-  <!-- Marco inferior con detalles -->
-  <div style="font-family: monospace; color: #928374; font-size: 10px;">
-    ════════════════════════════════════════════
-  </div>
-  <div style="font-family: monospace; color: #928374; font-size: 10px;">
-    🔧 Building • 🎯 Learning • ⚡ Growing
-  </div>
-  <div style="font-family: monospace; color: #928374; font-size: 10px;">
-    ════════════════════════════════════════════
-  </div>
+  <!-- Progreso en texto simple -->
+  <p>📊 Growth Progress: ▓▓▓▓▓▓▓▓▓░ 85%</p>
 </div>
+
 
   <div style="margin-top: 20px;">
     <a href="https://www.linkedin.com/in/anderson-gonzaleza21/"><img src="https://img.shields.io/badge/LinkedIn-83a598?style=for-the-badge&logo=linkedin&logoColor=282828" alt="LinkedIn"></a>
