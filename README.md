@@ -1,6 +1,5 @@
 <div align="center" style="background-color: #282828; padding: 20px; border-radius: 15px;">
 
-
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/header_banner.svg" alt="Banner de Aventura Pixel Art"/>
 
 <div align="center">
@@ -11,7 +10,7 @@
 <img src="https://img.shields.io/static/v1?label=Student&message=Systems%20Engineering&color=fabd2f&style=for-the-badge&labelColor=282828" alt="Student Badge" />
  <br>
 <!-- Typewriter principal -->
-<img id="typing-svg" src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;don't+always+test+my+code,+but+when+I+do,+it's+in+production;Systems+Engineering+Student;Problem+Solver;Building+Digital+Solutions;Always+Learning+%26+Growing;Code+Enthusiast;Future+Software+Engineer&font=Fira+Code&color=fabd2f&background=282828&size=18&width=420&height=60&duration=3000&pause=1000&center=true&vCenter=true&repeat=true" alt="Typing Animation" />
+<img id="typing-svg" src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Making+simple+things+complicated+since+day+1;Systems+Engineering+Student;Problem+Solver;Building+Digital+Solutions;Always+Learning+%26+Growing;Code+Enthusiast;Future+Software+Engineer&font=Fira+Code&color=fabd2f&background=282828&size=18&width=420&height=60&duration=3000&pause=1000&center=true&vCenter=true&repeat=true" alt="Typing Animation" />
 
 <!-- Progreso visual mejorado -->
 <br>
@@ -36,23 +35,18 @@
 
 </div>
 
-
-
   <div style="margin-top: 20px;">
     <a href="https://www.linkedin.com/in/anderson-gonzaleza21/"><img src="https://img.shields.io/badge/LinkedIn-83a598?style=for-the-badge&logo=linkedin&logoColor=282828" alt="LinkedIn"></a>
     <a href="https://anderdev-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-d65d0e?style=for-the-badge&logo=dev.to&logoColor=282828" alt="Portfolio"></a>
     <a href="mailto:fabianagcris@gmail.com"><img src="https://img.shields.io/badge/Gmail-cc241d?style=for-the-badge&logo=gmail&logoColor=282828" alt="Email"></a>
   </div>
 
-
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
-
 
   <h3 style="font-family: 'Courier New', monospace; color: #fabd2f; font-size: 24px;">📜 Skills Inventory </h3>
   <div style="margin-top: 20px;">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,python,django,fastapi,nodejs,postgres,git,vercel,linux,postman,unity&theme=dark&perline=9" alt="Technologies" />
   </div>
-
 
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
 
@@ -68,7 +62,6 @@
   </div>
 
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
-
 
   <h3 style="font-family: 'Courier New', monospace; color: #d65d0e; font-size: 24px;">⚔️ Features Quests</h3>
   <table width="100%" style="border-collapse: collapse;">
