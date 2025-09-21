@@ -61,11 +61,10 @@
     <table border="0" cellpadding="10" cellspacing="0">
       <tr valign="top">
         <td><img src="https://github-readme-stats.vercel.app/api?username=Albonire&show_icons=true&locale=en&theme=gruvbox&count_private=true" alt="GitHub Stats" /></td>
-        <td><img src="https://streak-stats.vercel.app/api/?user=Albonire&theme=gruvbox&locale=en" alt="GitHub Streak Stats" /></td>
+        <td><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Albonire&layout=compact&locale=en&theme=gruvbox&langs_count=10&count_private=true&exclude_repo=BDI-GB-ZOO" alt="Most Used Languages" style="margin-top:-4px;"/></td>
       </tr>
     </table>
-    <br>
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Albonire&layout=compact&locale=en&theme=gruvbox&langs_count=10&count_private=true&exclude_repo=BDI-GB-ZOO" alt="Most Used Languages" style="margin-top:-4px;"/>
+    
   </div>
 
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/pixel_vine_divider.svg" alt="Divisor de Enredadera Pixel Art" style="margin: 30px 0;"/>
