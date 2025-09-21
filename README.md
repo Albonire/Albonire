@@ -8,9 +8,7 @@
 <!-- Header limpio -->
 <h1>👋 Hi, I'm Anderson González</h1>
 
-<!-- Badge de estudiante con emoji integrado -->
-<img src="https://img.shields.io/static/v1?label=🎓&message=Systems%20Engineering%20Student&color=fabd2f&style=for-the-badge&labelColor=282828" alt="Student Badge" />
-
+<img src="https://img.shields.io/static/v1?label=Student&message=Systems%20Engineering&color=fabd2f&style=for-the-badge&labelColor=282828" alt="Student Badge" />
 
 <!-- Typewriter principal -->
 <img id="typing-svg" src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Systems+Engineering+Student;Problem+Solver;Building+Digital+Solutions;Always+Learning+%26+Growing;Code+Enthusiast;Future+Software+Engineer&font=Fira+Code&color=fabd2f&background=282828&size=18&width=420&height=60&duration=3000&pause=1000&center=true&vCenter=true&repeat=true" alt="Typing Animation" />
