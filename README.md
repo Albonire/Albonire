@@ -54,7 +54,7 @@
   <div align="center" style="margin-top: 20px;">
     <table border="0" cellpadding="10" cellspacing="0">
       <tr valign="top">
-        <td><img width = "100%" height= "200px"src="https://github-readme-stats.vercel.app/api?username=Albonire&show_icons=true&locale=en&theme=gruvbox&count_private=true" alt="GitHub Stats" /></td>
+        <td><img width = "180px" height= "200px"src="https://github-readme-stats.vercel.app/api?username=Albonire&show_icons=true&locale=en&theme=gruvbox&count_private=true" alt="GitHub Stats" /></td>
         <td><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Albonire&layout=compact&locale=en&theme=gruvbox&langs_count=10&count_private=true&exclude_repo=BDI-GB-ZOO" alt="Most Used Languages" style="margin-top:-4px;"/></td>
       </tr>
     </table>
