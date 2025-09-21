@@ -6,7 +6,7 @@
   <div align="center">
   <img src="https://img.shields.io/badge/🎓-Systems_Engineering_Student-fabd2f?style=for-the-badge&labelColor=282828" alt="Student Badge" />
   
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=💻+Anderson+González;🚀+Full-Stack+Developer;💡+Systems+Engineering+Student;🌟+Always+Learning;⚡+Creating+Solutions;🎯+Passionate+Coder;🔥+Innovation+Minded;✨+Building+the+Future&font=Fira+Code&color=fabd2f&background=282828&size=17&width=400&height=50&duration=3000&pause=800&center=true&vCenter=true&repeat=true" alt="Developer Identity" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=💻+Passionate+Developer;🚀+Building+Tomorrow;💡+Creative+Thinker;🌟+Always+Curious;⚡+Code+Enthusiast;🎯+Dream+Chaser;🔥+Tech+Explorer;✨+Future+Engineer&font=Fira+Code&color=fabd2f&background=282828&size=16&width=380&height=50&duration=2500&pause=500&center=true&vCenter=true&repeat=true" alt="Developer Identity" />
 </div>
 
 
