@@ -5,7 +5,7 @@
 
  <div style="margin-top: 20px; padding: 0 25px;">
     <div align="center">
-      [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Systems+Engineering+student+and+Junior+Full-Stack+Developer;who+loves+building+modern+web+apps,+especially+in+the+cloud;and+Linux+environments.+I+work+with+React,+Next.js,;and+TypeScript+on+the+frontend,+and+enjoy+backend+work;with+Python+(Django,+FastAPI)+and+Node.js.;Turning+ideas+into+clean,+user-friendly+code+is+my+thing.;I'm+always+learning+new+skills,+especially+cloud+tech,;and+love+collaborating+on+challenges.&font=Georgia&color=ebdbb2&size=16&width=800&height=120&duration=4000&pause=1000&center=true&vCenter=true&multiline=true)](https://git.io/typing-svg)
+      <img src="https://readme-typing-svg.demolab.com/?lines=I'm+a+Systems+Engineering+student;Junior+Full-Stack+Developer;Building+modern+web+apps;Cloud+and+Linux+environments;React,+Next.js,+TypeScript;Python,+Django,+FastAPI,+Node.js;Turning+ideas+into+clean+code;Always+learning+new+skills;Love+collaborating+on+challenges&font=Georgia&color=ebdbb2&size=18&width=600&height=60&duration=3000&pause=1000&center=true&vCenter=true" alt="Typing SVG" />
     </div>
   </div>
 
