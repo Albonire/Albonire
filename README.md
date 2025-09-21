@@ -3,11 +3,12 @@
 
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/header_banner.svg" alt="Banner de Aventura Pixel Art"/>
 
-  <div align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/🎓-Systems_Engineering_Student-fabd2f?style=for-the-badge&labelColor=282828" alt="Student Badge" />
   
   <img src="https://readme-typing-svg.herokuapp.com/?lines=💻+Passionate+Developer;🚀+Building+Tomorrow;💡+Creative+Thinker;🌟+Always+Curious;⚡+Code+Enthusiast;🎯+Dream+Chaser;🔥+Tech+Explorer;✨+Future+Engineer&font=Fira+Code&color=fabd2f&background=282828&size=16&width=380&height=50&duration=2500&pause=500&center=true&vCenter=true&repeat=true" alt="Developer Identity" />
 </div>
+
 
 
   <div style="margin-top: 20px;">
