@@ -4,16 +4,19 @@
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/header_banner.svg" alt="Banner de Aventura Pixel Art"/>
 
   <div align="center">
-  <!-- Badge de estudiante -->
-  <img src="https://img.shields.io/badge/🎓-Systems_Engineering_Student-fabd2f?style=for-the-badge&labelColor=282828" alt="Student Badge" />
-  
-  <!-- Typewriter effect (solo URL, sin HTML extra) -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=💻+Passionate+Developer;🚀+Building+Tomorrow;💡+Creative+Thinker;🌟+Always+Curious;⚡+Code+Enthusiast;🎯+Dream+Chaser;🔥+Tech+Explorer;✨+Future+Engineer&font=Fira+Code&color=fabd2f&background=282828&size=16&width=350&height=45&duration=2500&pause=500&center=true&vCenter=true&repeat=true" alt="Developer Identity" />
-  
-  <!-- Progreso en texto simple -->
-  <p>📊 Growth Progress: ▓▓▓▓▓▓▓▓▓░ 85%</p>
-</div>
+  <div style="margin-bottom: 10px;">
+    <img src="https://img.shields.io/badge/🎓-Systems_Engineering_Student-fabd2f?style=for-the-badge&labelColor=282828" alt="Student Badge" />
+  </div>
 
+  <img src="https://readme-typing-svg.demolab.com/?lines=💻+Full-Stack+Developer;🚀+Building+the+Future;💡+Problem+Solver;🌟+Always+Learning;⚡+Creating+Solutions;🎯+Passionate+Coder;🔥+Innovation+Minded;✨+Making+Ideas+Real&font=Fira+Code&color=fabd2f&background=282828&size=16&width=450&height=45&duration=2500&pause=500&center=true&vCenter=true&repeat=true" alt="Developer Passion" />
+
+  <div style="margin-top: 10px; width: 350px; height: 4px; background-color: #3c3836; border-radius: 2px; overflow: hidden;">
+    <div style="height: 100%; width: 85%; background: linear-gradient(90deg, #b8bb26, #fabd2f, #d65d0e); animation: pulse 2s infinite;"></div>
+  </div>
+  <div style="font-family: monospace; color: #928374; font-size: 11px; margin-top: 5px;">
+    Learning Journey: 85% ▓▓▓▓▓▓▓▓▓░
+  </div>
+</div>
 
   <div style="margin-top: 20px;">
     <a href="https://www.linkedin.com/in/anderson-gonzaleza21/"><img src="https://img.shields.io/badge/LinkedIn-83a598?style=for-the-badge&logo=linkedin&logoColor=282828" alt="LinkedIn"></a>
@@ -112,11 +115,11 @@
     <tr>
       <td align="center">
         <!--RECENT_ACTIVITY:start-->
-⚔️ ⬆️ Pushed 1 commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
-⚔️ ⬆️ Pushed 1 commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
-⚔️ ⬆️ Pushed 1 commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
-⚔️ ⬆️ Pushed 1 commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
-⚔️ ⬆️ Pushed 1 commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
+⚔️ ⬆️ Pushed 1 commit(s) to [Albonire/BDI-GB-ZOO](https://github.com/Albonire/BDI-GB-ZOO)<br>
+⚔️ ⬆️ Pushed 1 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
+⚔️ ⬆️ Pushed 2 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
+⚔️ ⬆️ Pushed 1 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
+⚔️ ⬆️ Pushed 1 commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
         <!--RECENT_ACTIVITY:end-->
       </td>
     </tr>
