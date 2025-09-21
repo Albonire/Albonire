@@ -3,10 +3,10 @@
 
   <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/header_banner.svg" alt="Banner de Aventura Pixel Art"/>
 
-  <div style="margin-top: 20px; padding: 0 25px;">
-    <p style="font-family: 'Georgia', serif; color: #ebdbb2; font-size: 16px;">
-      I'm a Systems Engineering student and Junior Full-Stack Developer who loves building modern web apps, especially in the cloud and Linux environments. I work with React, Next.js, and TypeScript on the frontend, and enjoy backend work with Python (Django, FastAPI) and Node.js. Turning ideas into clean, user-friendly code is my thing. I'm always learning new skills, especially cloud tech, and love collaborating on challenges.
-    </p>
+ <div style="margin-top: 20px; padding: 0 25px;">
+    <div align="center">
+      [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Systems+Engineering+student+and+Junior+Full-Stack+Developer;who+loves+building+modern+web+apps,+especially+in+the+cloud;and+Linux+environments.+I+work+with+React,+Next.js,;and+TypeScript+on+the+frontend,+and+enjoy+backend+work;with+Python+(Django,+FastAPI)+and+Node.js.;Turning+ideas+into+clean,+user-friendly+code+is+my+thing.;I'm+always+learning+new+skills,+especially+cloud+tech,;and+love+collaborating+on+challenges.&font=Georgia&color=ebdbb2&size=16&width=800&height=120&duration=4000&pause=1000&center=true&vCenter=true&multiline=true)](https://git.io/typing-svg)
+    </div>
   </div>
 
   <div style="margin-top: 20px;">
