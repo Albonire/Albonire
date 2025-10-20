@@ -127,11 +127,11 @@
     <tr>
       <td align="center">
         <!--RECENT_ACTIVITY:start-->
+⚔️ 💪 Opened PR [#8](undefined) in [cupidoUP-App/cupido-frontend](https://github.com/cupidoUP-App/cupido-frontend)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [cupidoUP-App/cupido-frontend](https://github.com/cupidoUP-App/cupido-frontend)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [cupidoUP-App/cupido-frontend](https://github.com/cupidoUP-App/cupido-frontend)<br>
 ⚔️ 💪 Opened PR [#7](undefined) in [cupidoUP-App/cupido-frontend](https://github.com/cupidoUP-App/cupido-frontend)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [cupidoUP-App/cupido-frontend](https://github.com/cupidoUP-App/cupido-frontend)<br>
-⚔️ ⭐ Starred [cupidoUP-App/cupido-frontend](https://github.com/cupidoUP-App/cupido-frontend)<br>
         <!--RECENT_ACTIVITY:end-->
       </td>
     </tr>
