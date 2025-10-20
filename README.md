@@ -127,7 +127,7 @@
     <tr>
       <td align="center">
         <!--RECENT_ACTIVITY:start-->
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/uni-match-lab](https://github.com/Albonire/uni-match-lab)<br>
+⚔️ ⭐ Starred [cupidoUP-App/cupido-frontend](https://github.com/cupidoUP-App/cupido-frontend)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/uni-match-lab](https://github.com/Albonire/uni-match-lab)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/uni-match-lab](https://github.com/Albonire/uni-match-lab)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/uni-match-lab](https://github.com/Albonire/uni-match-lab)<br>
