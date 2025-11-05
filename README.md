@@ -127,11 +127,11 @@
     <tr>
       <td align="center">
         <!--RECENT_ACTIVITY:start-->
+⚔️ ⬆️ Pushed undefined commit(s) to [cupidoUP-App/cupido-backend](https://github.com/cupidoUP-App/cupido-backend)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [cupidoUP-App/cupido-backend](https://github.com/cupidoUP-App/cupido-backend)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [cupidoUP-App/cupido-frontend](https://github.com/cupidoUP-App/cupido-frontend)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [cupidoUP-App/cupido-backend](https://github.com/cupidoUP-App/cupido-backend)<br>
 ⚔️ 💪 Opened PR [#17](undefined) in [cupidoUP-App/cupido-backend](https://github.com/cupidoUP-App/cupido-backend)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/quantum-leap-canvas](https://github.com/Albonire/quantum-leap-canvas)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/quantum-leap-canvas](https://github.com/Albonire/quantum-leap-canvas)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/quantum-leap-canvas](https://github.com/Albonire/quantum-leap-canvas)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/quantum-leap-canvas](https://github.com/Albonire/quantum-leap-canvas)<br>
         <!--RECENT_ACTIVITY:end-->
       </td>
     </tr>
