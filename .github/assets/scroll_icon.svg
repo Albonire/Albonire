@@ -1,13 +1,13 @@
 <svg width="64" height="64" xmlns="http://www.w3.org/2000/svg">
   <style>.pixel{shape-rendering: crispEdges;}</style>
   <g transform="translate(8 8)">
-    <!-- Scroll Paper -->
-    <path class="pixel" fill="#d5c4a1" d="M8 0 H40 V8 H48 V48 H8 V40 H0 V0 H8 Z"/>
-    <path class="pixel" fill="#fbf1c7" d="M10 2 H38 V8 H46 V46 H10 V40 H2 V2 H10 Z"/>
-    <!-- Scroll Seal -->
-    <path class="pixel" fill="#cc241d" d="M20 32 H28 V40 H20 Z"/>
-    <path class="pixel" fill="#9d0006" d="M22 34 H26 V38 H22 Z"/>
-    <!-- Text Lines -->
-    <path class="pixel" fill="#7c6f64" d="M14 10 H42 V12 H14 Z M14 16 H42 V18 H14 Z M14 22 H38 V24 H14 Z M14 28 H34 V30 H14 Z"/>
+    <!-- Scroll Paper (subtle teal-cream) -->
+    <path class="pixel" fill="#e6f7ef" d="M8 0 H40 V8 H48 V48 H8 V40 H0 V0 H8 Z"/>
+    <path class="pixel" fill="#fbfdf8" d="M10 2 H38 V8 H46 V46 H10 V40 H2 V2 H10 Z"/>
+    <!-- Scroll Seal (accent orange) -->
+    <path class="pixel" fill="#E46D2F" d="M20 32 H28 V40 H20 Z"/>
+    <path class="pixel" fill="#c64a1d" d="M22 34 H26 V38 H22 Z"/>
+    <!-- Text Lines (dark teal) -->
+    <path class="pixel" fill="#0b3a2b" d="M14 10 H42 V12 H14 Z M14 16 H42 V18 H14 Z M14 22 H38 V24 H14 Z M14 28 H34 V30 H14 Z"/>
   </g>
 </svg>
