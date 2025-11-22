@@ -1,11 +1,11 @@
 <div align="center" style="background-color: #282828; padding: 20px; border-radius: 15px;">
 
-  <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/header_banner.svg" alt="Banner de Aventura Pixel Art"/>
+  <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/header_banner.gif" alt="Banner de Aventura Pixel Art"/>
 
 <div align="center">
 
 <!-- Header limpio -->
-<h1>👋 Hi, I'm Anderson González</h1>
+<h1> Hi, I'm Anderson González</h1>
 
 <img src="https://img.shields.io/static/v1?label=Student&message=Systems%20Engineering&color=fabd2f&style=for-the-badge&labelColor=282828" alt="Student Badge" />
  <br>
