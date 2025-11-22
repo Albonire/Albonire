@@ -129,7 +129,7 @@
         <!--RECENT_ACTIVITY:start-->
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/ia-humanizer](https://github.com/Albonire/ia-humanizer)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/ia-humanizer](https://github.com/Albonire/ia-humanizer)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/ia-humanizer](https://github.com/Albonire/ia-humanizer)<br>
         <!--RECENT_ACTIVITY:end-->
