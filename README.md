@@ -46,7 +46,7 @@
         <br/>
         <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" height="25" />
         <br/><br/>
-        <a href="https://github.com/Albonire/pomodoro-youtube">
+        <a href="https://github.com/Albonire/home-button">
             <img src="https://img.shields.io/badge/View_Project-1e293b?style=flat-square&logoColor=white" />
         </a>
       </div>
