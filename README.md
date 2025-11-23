@@ -56,7 +56,7 @@
         <h3 style="color: #e2e8f0; font-family: sans-serif;">IA Humanizer</h3>
         <p style="color: #64748b; font-size: 14px;">Transformers-powered text humanizer with real-time updates.</p>
         <br/>
-        <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,socketio&theme=dark" height="25" />
+        <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,ts,socketio&theme=dark" height="25" />
         <br/><br/>
         <a href="https://github.com/Albonire/ia-humanizer">
             <img src="https://img.shields.io/badge/View_Project-1e293b?style=flat-square&logoColor=white" />
@@ -88,7 +88,7 @@
         <!--RECENT_ACTIVITY:start-->
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
+⚔️ 💪 Opened PR [#2](undefined) in [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
         <!--RECENT_ACTIVITY:end-->
