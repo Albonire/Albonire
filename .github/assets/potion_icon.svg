@@ -1,17 +1,1 @@
-<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg">
-  <style>.pixel{shape-rendering: crispEdges;}</style>
-  <g transform="translate(8 8)">
-    <!-- Bottle Outline (themed to banner colors) -->
-    <path class="pixel" fill="#04202b" d="M20 0 H28 V6 H32 V14 H40 V40 H36 V48 H12 V40 H8 V14 H16 V6 H20 V0 Z"/>
-    <!-- Bottle Glass/Liquid Background (light teal) -->
-    <path class="pixel" fill="#9AE6B4" d="M22 2 H26 V6 H30 V14 H38 V40 H34 V46 H14 V40 H10 V14 H18 V6 H22 V2 Z"/>
-    <!-- Liquid (accent orange) -->
-    <path class="pixel" fill="#E46D2F" d="M12 24 H36 V40 H34 V44 H14 V40 H12 V24 Z"/>
-    <!-- Liquid Top/Surface (lighter) -->
-    <path class="pixel" fill="#FBBF6F" d="M12 24 H36 V28 H12 V24 Z"/>
-    <!-- Highlight/Reflection -->
-    <path class="pixel" fill="#fbf1c7" d="M30 18 H34 V22 H30 V18 Z M32 30 H34 V36 H32 V30 Z"/>
-    <!-- Cork (accent) -->
-    <path class="pixel" fill="#E46D2F" d="M22 0 H26 V4 H22 V0 Z"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><style>.pixel{shape-rendering:crispEdges}</style><g><path fill="#04202b" d="M20 0 H28 V6 H32 V14 H40 V40 H36 V48 H12 V40 H8 V14 H16 V6 H20 V0 Z" class="pixel" transform="translate(8 8)"/><path fill="#9AE6B4" d="M22 2 H26 V6 H30 V14 H38 V40 H34 V46 H14 V40 H10 V14 H18 V6 H22 V2 Z" class="pixel" transform="translate(8 8)"/><path fill="#E46D2F" d="M12 24 H36 V40 H34 V44 H14 V40 H12 V24 Z" class="pixel" transform="translate(8 8)"/><path fill="#FBBF6F" d="M12 24 H36 V28 H12 V24 Z" class="pixel" transform="translate(8 8)"/><path fill="#fbf1c7" d="M30 18 H34 V22 H30 V18 Z M32 30 H34 V36 H32 V30 Z" class="pixel" transform="translate(8 8)"/><path fill="#E46D2F" d="M22 0 H26 V4 H22 V0 Z" class="pixel" transform="translate(8 8)"/></g></svg>
