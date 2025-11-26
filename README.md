@@ -86,9 +86,9 @@
     <tr>
       <td align="center" style="color: #94a3b8; font-family: monospace;">
         <!--RECENT_ACTIVITY:start-->
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [cupidoUP-App/cupido-frontend](https://github.com/cupidoUP-App/cupido-frontend)<br>
+⚔️ 👍 Approved [#27](https://github.com/cupidoUP-App/cupido-frontend/pull/27#pullrequestreview-3510624029) in [cupidoUP-App/cupido-frontend](https://github.com/cupidoUP-App/cupido-frontend)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [cupidoUP-App/cupido-frontend](https://github.com/cupidoUP-App/cupido-frontend)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
         <!--RECENT_ACTIVITY:end-->
