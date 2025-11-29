@@ -89,7 +89,7 @@
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/quantum-leap-canvas](https://github.com/Albonire/quantum-leap-canvas)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/quantum-leap-canvas](https://github.com/Albonire/quantum-leap-canvas)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/quantum-leap-canvas](https://github.com/Albonire/quantum-leap-canvas)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/quantum-leap-canvas](https://github.com/Albonire/quantum-leap-canvas)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
         <!--RECENT_ACTIVITY:end-->
       </td>
