@@ -10,7 +10,7 @@
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Digital+Solutions;Crafting+Elegant+Code;Solving+Complex+Problems&font=Cinzel&color=94a3b8&size=20&center=true&vCenter=true&width=500&height=40&background=00000000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Digital+Solutions;Crafting+Elegant+Code;Solving+Complex+Problems&font=AllertaStencil&color=94a3b8&size=20&center=true&vCenter=true&width=500&height=40&background=00000000" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -86,11 +86,11 @@
     <tr>
       <td align="center" style="color: #94a3b8; font-family: monospace;">
         <!--RECENT_ACTIVITY:start-->
+⚔️ ⬆️ Pushed undefined commit(s) to [wilmerflorez-a11/bingoclaudenova](https://github.com/wilmerflorez-a11/bingoclaudenova)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [cupidoUP-App/cupido-frontend](https://github.com/cupidoUP-App/cupido-frontend)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [cupidoUP-App/cupido-frontend](https://github.com/cupidoUP-App/cupido-frontend)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/quantum-leap-canvas](https://github.com/Albonire/quantum-leap-canvas)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/quantum-leap-canvas](https://github.com/Albonire/quantum-leap-canvas)<br>
         <!--RECENT_ACTIVITY:end-->
       </td>
     </tr>
