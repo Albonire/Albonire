@@ -10,7 +10,7 @@
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Digital+Solutions;Crafting+Elegant+Code;Solving+Complex+Problems&font=Silkscreen&color=94a3b8&size=20&center=true&vCenter=true&width=500&height=40&background=00000000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Production+is+the+real+test+env;CSS+is+harder+than+C%2B%2B;Solving+problems+you+did+not+have&font=Salsa&color=94a3b8&size=20&center=true&vCenter=true&width=500&height=40&background=00000000" alt="Typing SVG" />
   </a>
 
   <br/>
