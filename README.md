@@ -10,7 +10,7 @@
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Production+is+the+real+test+env;CSS+is+harder+than+C%2B%2B;Solving+problems+you+did+not+have&font=Doto
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Production+is+the+real+test+env;CSS+is+harder+than+C%2B%2B;Solving+problems+you+did+not+have&font=Doto&color=94a3b8&size=20&center=true&vCenter=true&width=500&height=40&background=00000000" alt="Typing SVG"/>
   </a>
 
   <br/>
@@ -89,7 +89,7 @@
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/quantum-leap-canvas](https://github.com/Albonire/quantum-leap-canvas)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
         <!--RECENT_ACTIVITY:end-->
       </td>
