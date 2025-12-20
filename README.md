@@ -88,8 +88,8 @@
         <!--RECENT_ACTIVITY:start-->
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/portfolio-ascii](https://github.com/Albonire/portfolio-ascii)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/portfolio-ascii](https://github.com/Albonire/portfolio-ascii)<br>
-⚔️ 🔱 Forked [Albonire/djangoproject.com](https://github.com/Albonire/djangoproject.com) from [django/djangoproject.com](https://github.com/django/djangoproject.com)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/portfolio-ascii](https://github.com/Albonire/portfolio-ascii)<br>
+⚔️ 🔱 Forked [Albonire/djangoproject.com](https://github.com/Albonire/djangoproject.com) from [django/djangoproject.com](https://github.com/django/djangoproject.com)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/portfolio-ascii](https://github.com/Albonire/portfolio-ascii)<br>
         <!--RECENT_ACTIVITY:end-->
       </td>
