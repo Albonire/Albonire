@@ -86,11 +86,11 @@
     <tr>
       <td align="center" style="color: #94a3b8; font-family: monospace;">
         <!--RECENT_ACTIVITY:start-->
+⚔️ ⭐ Starred [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/portfolio3D](https://github.com/Albonire/portfolio3D)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/portfolio3D](https://github.com/Albonire/portfolio3D)<br>
 ⚔️ ⭐ Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>
 ⚔️ ⭐ Starred [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/notebooklm-watermark-remover](https://github.com/Albonire/notebooklm-watermark-remover)<br>
         <!--RECENT_ACTIVITY:end-->
       </td>
     </tr>
