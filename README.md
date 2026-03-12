@@ -86,11 +86,11 @@
     <tr>
       <td align="center" style="color: #94a3b8; font-family: monospace;">
         <!--RECENT_ACTIVITY:start-->
+⚔️ ⭐ Starred [hakimel/reveal.js](https://github.com/hakimel/reveal.js)<br>
 ⚔️ ⭐ Starred [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/portfolio3D](https://github.com/Albonire/portfolio3D)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/portfolio3D](https://github.com/Albonire/portfolio3D)<br>
 ⚔️ ⭐ Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>
-⚔️ ⭐ Starred [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)<br>
         <!--RECENT_ACTIVITY:end-->
       </td>
     </tr>
