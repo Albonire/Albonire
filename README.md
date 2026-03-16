@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/header_banner.gif" width="100%" style="border-radius: 10px;" alt="Koi Pond Banner" />
+  <img src="https://raw.githubusercontent.com/Albonire/Albonire/main/.github/assets/_gir.gif" width="100%" style="border-radius: 10px;" alt="Koi Pond Banner" />
 
   <br/>
   <br/>
