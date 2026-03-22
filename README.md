@@ -86,8 +86,8 @@
     <tr>
       <td align="center" style="color: #94a3b8; font-family: monospace;">
         <!--RECENT_ACTIVITY:start-->
+⚔️ ⭐ Starred [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)<br>
 ⚔️ ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Albonire](https://github.com/Albonire/Albonire)<br>
