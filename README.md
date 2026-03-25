@@ -90,7 +90,7 @@
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Paralelas](https://github.com/Albonire/Paralelas)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Paralelas](https://github.com/Albonire/Paralelas)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Paralelas](https://github.com/Albonire/Paralelas)<br>
-⚔️ ⭐ Starred [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Paralelas](https://github.com/Albonire/Paralelas)<br>
         <!--RECENT_ACTIVITY:end-->
       </td>
     </tr>
