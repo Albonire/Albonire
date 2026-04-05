@@ -89,7 +89,7 @@
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/portfolio3D](https://github.com/Albonire/portfolio3D)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/portfolio3D](https://github.com/Albonire/portfolio3D)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/portfolio3D](https://github.com/Albonire/portfolio3D)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Paralelas](https://github.com/Albonire/Paralelas)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/portfolio3D](https://github.com/Albonire/portfolio3D)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Paralelas](https://github.com/Albonire/Paralelas)<br>
         <!--RECENT_ACTIVITY:end-->
       </td>
