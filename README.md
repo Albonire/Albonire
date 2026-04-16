@@ -90,7 +90,7 @@
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/desing-pattens-slides](https://github.com/Albonire/desing-pattens-slides)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/desing-pattens-slides](https://github.com/Albonire/desing-pattens-slides)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/desing-pattens-slides](https://github.com/Albonire/desing-pattens-slides)<br>
-⚔️ ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/desing-pattens-slides](https://github.com/Albonire/desing-pattens-slides)<br>
         <!--RECENT_ACTIVITY:end-->
       </td>
     </tr>
