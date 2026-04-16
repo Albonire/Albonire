@@ -86,7 +86,7 @@
     <tr>
       <td align="center" style="color: #94a3b8; font-family: monospace;">
         <!--RECENT_ACTIVITY:start-->
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/desing-pattens-slides](https://github.com/Albonire/desing-pattens-slides)<br>
+⚔️ ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/desing-pattens-slides](https://github.com/Albonire/desing-pattens-slides)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/desing-pattens-slides](https://github.com/Albonire/desing-pattens-slides)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/desing-pattens-slides](https://github.com/Albonire/desing-pattens-slides)<br>
