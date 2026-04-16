@@ -88,9 +88,9 @@
         <!--RECENT_ACTIVITY:start-->
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/desing-pattens-slides](https://github.com/Albonire/desing-pattens-slides)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/desing-pattens-slides](https://github.com/Albonire/desing-pattens-slides)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/desing-pattens-slides](https://github.com/Albonire/desing-pattens-slides)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/desing-pattens-slides](https://github.com/Albonire/desing-pattens-slides)<br>
 ⚔️ ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/desing-pattens-slides](https://github.com/Albonire/desing-pattens-slides)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/desing-pattens-slides](https://github.com/Albonire/desing-pattens-slides)<br>
         <!--RECENT_ACTIVITY:end-->
       </td>
     </tr>
