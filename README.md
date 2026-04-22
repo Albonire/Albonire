@@ -87,10 +87,10 @@
       <td align="center" style="color: #94a3b8; font-family: monospace;">
         <!--RECENT_ACTIVITY:start-->
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/RoomieMatch](https://github.com/Albonire/RoomieMatch)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/RoomieMatch](https://github.com/Albonire/RoomieMatch)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/datasciente_final](https://github.com/Albonire/datasciente_final)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/datasciente_final](https://github.com/Albonire/datasciente_final)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/datasciente_final](https://github.com/Albonire/datasciente_final)<br>
-⚔️ ⭐ Starred [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)<br>
         <!--RECENT_ACTIVITY:end-->
       </td>
     </tr>
