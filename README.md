@@ -88,9 +88,9 @@
         <!--RECENT_ACTIVITY:start-->
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/lab_mpi_openmp](https://github.com/Albonire/lab_mpi_openmp)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/lab_mpi_openmp](https://github.com/Albonire/lab_mpi_openmp)<br>
-⚔️ ⭐ Starred [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/home-button](https://github.com/Albonire/home-button)<br>
-⚔️ ⭐ Starred [soxoj/maigret](https://github.com/soxoj/maigret)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/lab_mpi_openmp](https://github.com/Albonire/lab_mpi_openmp)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/lab_mpi_openmp](https://github.com/Albonire/lab_mpi_openmp)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/lab_mpi_openmp](https://github.com/Albonire/lab_mpi_openmp)<br>
         <!--RECENT_ACTIVITY:end-->
       </td>
     </tr>
