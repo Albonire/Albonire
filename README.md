@@ -86,9 +86,9 @@
     <tr>
       <td align="center" style="color: #94a3b8; font-family: monospace;">
         <!--RECENT_ACTIVITY:start-->
+⚔️ ⭐ Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [ATIS-UP/AT-frontend](https://github.com/ATIS-UP/AT-frontend)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [ATIS-UP/AT-frontend](https://github.com/ATIS-UP/AT-frontend)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/lab_mpi_openmp](https://github.com/Albonire/lab_mpi_openmp)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/lab_mpi_openmp](https://github.com/Albonire/lab_mpi_openmp)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/lab_mpi_openmp](https://github.com/Albonire/lab_mpi_openmp)<br>
         <!--RECENT_ACTIVITY:end-->
