@@ -86,11 +86,11 @@
     <tr>
       <td align="center" style="color: #94a3b8; font-family: monospace;">
         <!--RECENT_ACTIVITY:start-->
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/lab_mpi_openmp](https://github.com/Albonire/lab_mpi_openmp)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/lab_mpi_openmp](https://github.com/Albonire/lab_mpi_openmp)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [ATIS-UP/AT-frontend](https://github.com/ATIS-UP/AT-frontend)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [ATIS-UP/AT-Backend](https://github.com/ATIS-UP/AT-Backend)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [ATIS-UP/AT-frontend](https://github.com/ATIS-UP/AT-frontend)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [ATIS-UP/AT-frontend](https://github.com/ATIS-UP/AT-frontend)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [ATIS-UP/AT-Backend](https://github.com/ATIS-UP/AT-Backend)<br>
         <!--RECENT_ACTIVITY:end-->
       </td>
     </tr>
