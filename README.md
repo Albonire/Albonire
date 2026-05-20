@@ -86,11 +86,11 @@
     <tr>
       <td align="center" style="color: #94a3b8; font-family: monospace;">
         <!--RECENT_ACTIVITY:start-->
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/taller-cuda-unipamplona](https://github.com/Albonire/taller-cuda-unipamplona)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/taller-cuda-unipamplona](https://github.com/Albonire/taller-cuda-unipamplona)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/taller-cuda-unipamplona](https://github.com/Albonire/taller-cuda-unipamplona)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/taller-cuda-unipamplona](https://github.com/Albonire/taller-cuda-unipamplona)<br>
 ⚔️ ⭐ Starred [vansh-nagar/ascii-studio](https://github.com/vansh-nagar/ascii-studio)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/CircuitBreve](https://github.com/Albonire/CircuitBreve)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/notebooklm-watermark-remover](https://github.com/Albonire/notebooklm-watermark-remover)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/lab_mpi_openmp](https://github.com/Albonire/lab_mpi_openmp)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [ATIS-UP/AT-frontend](https://github.com/ATIS-UP/AT-frontend)<br>
         <!--RECENT_ACTIVITY:end-->
       </td>
     </tr>
