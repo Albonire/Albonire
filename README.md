@@ -86,11 +86,11 @@
     <tr>
       <td align="center" style="color: #94a3b8; font-family: monospace;">
         <!--RECENT_ACTIVITY:start-->
-⚔️ ⭐ Starred [greensock/gsap-skills](https://github.com/greensock/gsap-skills)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/taller-cuda-unipamplona](https://github.com/Albonire/taller-cuda-unipamplona)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/taller-cuda-unipamplona](https://github.com/Albonire/taller-cuda-unipamplona)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/taller-cuda-unipamplona](https://github.com/Albonire/taller-cuda-unipamplona)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/taller-cuda-unipamplona](https://github.com/Albonire/taller-cuda-unipamplona)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/parcial-gpu-pytorch-colab](https://github.com/Albonire/parcial-gpu-pytorch-colab)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/parcial-gpu-pytorch-colab](https://github.com/Albonire/parcial-gpu-pytorch-colab)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/parcial-gpu-pytorch-colab](https://github.com/Albonire/parcial-gpu-pytorch-colab)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/parcial-gpu-pytorch-colab](https://github.com/Albonire/parcial-gpu-pytorch-colab)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/parcial-gpu-pytorch-colab](https://github.com/Albonire/parcial-gpu-pytorch-colab)<br>
         <!--RECENT_ACTIVITY:end-->
       </td>
     </tr>
