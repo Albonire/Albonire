@@ -87,9 +87,9 @@
       <td align="center" style="color: #94a3b8; font-family: monospace;">
         <!--RECENT_ACTIVITY:start-->
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Parcial2](https://github.com/Albonire/Parcial2)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/Parcial2](https://github.com/Albonire/Parcial2)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/RoomieMatch](https://github.com/Albonire/RoomieMatch)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/RoomieMatch](https://github.com/Albonire/RoomieMatch)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/parcial-gpu-pytorch-colab](https://github.com/Albonire/parcial-gpu-pytorch-colab)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/parcial-gpu-pytorch-colab](https://github.com/Albonire/parcial-gpu-pytorch-colab)<br>
         <!--RECENT_ACTIVITY:end-->
       </td>
