@@ -1,8 +1,1 @@
-<svg width="800" height="8" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <pattern id="pixel-pattern" x="0" y="0" width="16" height="8" patternUnits="userSpaceOnUse">
-      <rect x="0" y="0" width="8" height="8" fill="#b8bb26"/>
-    </pattern>
-  </defs>
-  <rect x="0" y="0" width="100%" height="100%" fill="url(#pixel-pattern)" shape-rendering="crispEdges" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="8"><defs><pattern id="pixel-pattern" width="16" height="8" x="0" y="0" patternUnits="userSpaceOnUse"><rect width="8" height="8" x="0" y="0" fill="#b8bb26"/></pattern></defs><rect width="100%" height="100%" x="0" y="0" fill="url(#pixel-pattern)" shape-rendering="crispEdges"/></svg>
