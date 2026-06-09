@@ -88,7 +88,7 @@
         <!--RECENT_ACTIVITY:start-->
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/rzi-project](https://github.com/Albonire/rzi-project)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/rzi-project](https://github.com/Albonire/rzi-project)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/RoomieMatch](https://github.com/Albonire/RoomieMatch)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/rzi-project](https://github.com/Albonire/rzi-project)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/RoomieMatch](https://github.com/Albonire/RoomieMatch)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/RoomieMatch](https://github.com/Albonire/RoomieMatch)<br>
         <!--RECENT_ACTIVITY:end-->
