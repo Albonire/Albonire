@@ -88,9 +88,9 @@
         <!--RECENT_ACTIVITY:start-->
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/spark-glue-workshop](https://github.com/Albonire/spark-glue-workshop)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/spark-glue-workshop](https://github.com/Albonire/spark-glue-workshop)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/clasificador-imagenes-openmp-cuda](https://github.com/Albonire/clasificador-imagenes-openmp-cuda)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/clasificador-imagenes-openmp-cuda](https://github.com/Albonire/clasificador-imagenes-openmp-cuda)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/rzi-project](https://github.com/Albonire/rzi-project)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/spark-glue-workshop](https://github.com/Albonire/spark-glue-workshop)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/spark-glue-workshop](https://github.com/Albonire/spark-glue-workshop)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/spark-glue-workshop](https://github.com/Albonire/spark-glue-workshop)<br>
         <!--RECENT_ACTIVITY:end-->
       </td>
     </tr>
