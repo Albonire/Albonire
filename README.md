@@ -89,7 +89,7 @@
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/cv-parser](https://github.com/Albonire/cv-parser)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/cv-parser](https://github.com/Albonire/cv-parser)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/cv-parser](https://github.com/Albonire/cv-parser)<br>
-⚔️ 💪 Opened PR [#8](undefined) in [Albonire/cv-parser](https://github.com/Albonire/cv-parser)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/cv-parser](https://github.com/Albonire/cv-parser)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/cv-parser](https://github.com/Albonire/cv-parser)<br>
         <!--RECENT_ACTIVITY:end-->
       </td>
