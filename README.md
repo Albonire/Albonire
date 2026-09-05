@@ -86,9 +86,9 @@
     <tr>
       <td align="center" style="color: #94a3b8; font-family: monospace;">
         <!--RECENT_ACTIVITY:start-->
+⚔️ 💪 Opened PR [#9](undefined) in [Albonire/cv-parser](https://github.com/Albonire/cv-parser)<br>
+⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/cv-parser](https://github.com/Albonire/cv-parser)<br>
 ⚔️ 💪 Opened PR [#1](undefined) in [Albonire/ubiquitous-potato](https://github.com/Albonire/ubiquitous-potato)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/cv-parser](https://github.com/Albonire/cv-parser)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/cv-parser](https://github.com/Albonire/cv-parser)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/cv-parser](https://github.com/Albonire/cv-parser)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/cv-parser](https://github.com/Albonire/cv-parser)<br>
         <!--RECENT_ACTIVITY:end-->
