@@ -90,7 +90,6 @@
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/ubiquitous-potato](https://github.com/Albonire/ubiquitous-potato)<br>
 ⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/ubiquitous-potato](https://github.com/Albonire/ubiquitous-potato)<br>
 ⚔️ 💪 Opened PR [#1](undefined) in [Albonire/ubiquitous-potato](https://github.com/Albonire/ubiquitous-potato)<br>
-⚔️ ⬆️ Pushed undefined commit(s) to [Albonire/portfolio3D](https://github.com/Albonire/portfolio3D)<br>
         <!--RECENT_ACTIVITY:end-->
       </td>
     </tr>
